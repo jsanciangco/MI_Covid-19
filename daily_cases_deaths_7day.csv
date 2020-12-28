@@ -271,6 +271,7 @@ Date,County,Metrics,Values
 2020-12-22,Alcona,Daily_Cases,0.0
 2020-12-23,Alcona,Daily_Cases,1.0
 2020-12-26,Alcona,Daily_Cases,2.0
+2020-12-28,Alcona,Daily_Cases,2.0
 2020-03-10,Alger,Daily_Cases,0.0
 2020-03-11,Alger,Daily_Cases,0.0
 2020-03-12,Alger,Daily_Cases,0.0
@@ -502,6 +503,7 @@ Date,County,Metrics,Values
 2020-12-22,Alger,Daily_Cases,-1.0
 2020-12-23,Alger,Daily_Cases,0.0
 2020-12-26,Alger,Daily_Cases,3.0
+2020-12-28,Alger,Daily_Cases,1.0
 2020-03-10,Allegan,Daily_Cases,0.0
 2020-03-11,Allegan,Daily_Cases,0.0
 2020-03-12,Allegan,Daily_Cases,0.0
@@ -774,6 +776,7 @@ Date,County,Metrics,Values
 2020-12-22,Allegan,Daily_Cases,48.0
 2020-12-23,Allegan,Daily_Cases,29.0
 2020-12-26,Allegan,Daily_Cases,108.0
+2020-12-28,Allegan,Daily_Cases,35.0
 2020-03-10,Alpena,Daily_Cases,0.0
 2020-03-11,Alpena,Daily_Cases,0.0
 2020-03-12,Alpena,Daily_Cases,0.0
@@ -1046,6 +1049,7 @@ Date,County,Metrics,Values
 2020-12-22,Alpena,Daily_Cases,4.0
 2020-12-23,Alpena,Daily_Cases,1.0
 2020-12-26,Alpena,Daily_Cases,20.0
+2020-12-28,Alpena,Daily_Cases,8.0
 2020-03-10,Antrim,Daily_Cases,0.0
 2020-03-11,Antrim,Daily_Cases,0.0
 2020-03-12,Antrim,Daily_Cases,0.0
@@ -1260,6 +1264,7 @@ Date,County,Metrics,Values
 2020-12-22,Antrim,Daily_Cases,2.0
 2020-12-23,Antrim,Daily_Cases,3.0
 2020-12-26,Antrim,Daily_Cases,13.0
+2020-12-28,Antrim,Daily_Cases,5.0
 2020-03-10,Arenac,Daily_Cases,0.0
 2020-03-11,Arenac,Daily_Cases,0.0
 2020-03-12,Arenac,Daily_Cases,0.0
@@ -1532,6 +1537,7 @@ Date,County,Metrics,Values
 2020-12-22,Arenac,Daily_Cases,2.0
 2020-12-23,Arenac,Daily_Cases,2.0
 2020-12-26,Arenac,Daily_Cases,5.0
+2020-12-28,Arenac,Daily_Cases,3.0
 2020-03-10,Baraga,Daily_Cases,0.0
 2020-03-11,Baraga,Daily_Cases,0.0
 2020-03-12,Baraga,Daily_Cases,0.0
@@ -1781,6 +1787,7 @@ Date,County,Metrics,Values
 2020-12-22,Baraga,Daily_Cases,3.0
 2020-12-23,Baraga,Daily_Cases,2.0
 2020-12-26,Baraga,Daily_Cases,2.0
+2020-12-28,Baraga,Daily_Cases,2.0
 2020-03-10,Barry,Daily_Cases,0.0
 2020-03-11,Barry,Daily_Cases,0.0
 2020-03-12,Barry,Daily_Cases,0.0
@@ -2053,6 +2060,7 @@ Date,County,Metrics,Values
 2020-12-22,Barry,Daily_Cases,62.0
 2020-12-23,Barry,Daily_Cases,10.0
 2020-12-26,Barry,Daily_Cases,32.0
+2020-12-28,Barry,Daily_Cases,23.0
 2020-03-10,Bay,Daily_Cases,0.0
 2020-03-11,Bay,Daily_Cases,0.0
 2020-03-12,Bay,Daily_Cases,0.0
@@ -2325,6 +2333,7 @@ Date,County,Metrics,Values
 2020-12-22,Bay,Daily_Cases,17.0
 2020-12-23,Bay,Daily_Cases,46.0
 2020-12-26,Bay,Daily_Cases,102.0
+2020-12-28,Bay,Daily_Cases,50.0
 2020-03-10,Benzie,Daily_Cases,0.0
 2020-03-11,Benzie,Daily_Cases,0.0
 2020-03-12,Benzie,Daily_Cases,0.0
@@ -2597,6 +2606,7 @@ Date,County,Metrics,Values
 2020-12-22,Benzie,Daily_Cases,2.0
 2020-12-23,Benzie,Daily_Cases,4.0
 2020-12-26,Benzie,Daily_Cases,5.0
+2020-12-28,Benzie,Daily_Cases,5.0
 2020-03-10,Berrien,Daily_Cases,0.0
 2020-03-11,Berrien,Daily_Cases,0.0
 2020-03-12,Berrien,Daily_Cases,0.0
@@ -2869,6 +2879,7 @@ Date,County,Metrics,Values
 2020-12-22,Berrien,Daily_Cases,49.0
 2020-12-23,Berrien,Daily_Cases,40.0
 2020-12-26,Berrien,Daily_Cases,140.0
+2020-12-28,Berrien,Daily_Cases,51.0
 2020-03-10,Branch,Daily_Cases,0.0
 2020-03-11,Branch,Daily_Cases,0.0
 2020-03-12,Branch,Daily_Cases,0.0
@@ -3141,6 +3152,7 @@ Date,County,Metrics,Values
 2020-12-22,Branch,Daily_Cases,-10.0
 2020-12-23,Branch,Daily_Cases,18.0
 2020-12-26,Branch,Daily_Cases,63.0
+2020-12-28,Branch,Daily_Cases,20.0
 2020-03-10,Calhoun,Daily_Cases,0.0
 2020-03-11,Calhoun,Daily_Cases,0.0
 2020-03-12,Calhoun,Daily_Cases,0.0
@@ -3413,6 +3425,7 @@ Date,County,Metrics,Values
 2020-12-22,Calhoun,Daily_Cases,-18.0
 2020-12-23,Calhoun,Daily_Cases,51.0
 2020-12-26,Calhoun,Daily_Cases,92.0
+2020-12-28,Calhoun,Daily_Cases,31.0
 2020-03-10,Cass,Daily_Cases,0.0
 2020-03-11,Cass,Daily_Cases,0.0
 2020-03-12,Cass,Daily_Cases,0.0
@@ -3685,6 +3698,7 @@ Date,County,Metrics,Values
 2020-12-22,Cass,Daily_Cases,14.0
 2020-12-23,Cass,Daily_Cases,19.0
 2020-12-26,Cass,Daily_Cases,50.0
+2020-12-28,Cass,Daily_Cases,20.0
 2020-03-10,Charlevoix,Daily_Cases,0.0
 2020-03-11,Charlevoix,Daily_Cases,0.0
 2020-03-12,Charlevoix,Daily_Cases,0.0
@@ -3957,6 +3971,7 @@ Date,County,Metrics,Values
 2020-12-22,Charlevoix,Daily_Cases,1.0
 2020-12-23,Charlevoix,Daily_Cases,3.0
 2020-12-26,Charlevoix,Daily_Cases,4.0
+2020-12-28,Charlevoix,Daily_Cases,1.0
 2020-03-10,Cheboygan,Daily_Cases,0.0
 2020-03-11,Cheboygan,Daily_Cases,0.0
 2020-03-12,Cheboygan,Daily_Cases,0.0
@@ -4229,6 +4244,7 @@ Date,County,Metrics,Values
 2020-12-22,Cheboygan,Daily_Cases,0.0
 2020-12-23,Cheboygan,Daily_Cases,-1.0
 2020-12-26,Cheboygan,Daily_Cases,14.0
+2020-12-28,Cheboygan,Daily_Cases,3.0
 2020-03-10,Chippewa,Daily_Cases,0.0
 2020-03-11,Chippewa,Daily_Cases,0.0
 2020-03-12,Chippewa,Daily_Cases,0.0
@@ -4439,6 +4455,7 @@ Date,County,Metrics,Values
 2020-12-22,Chippewa,Daily_Cases,66.0
 2020-12-23,Chippewa,Daily_Cases,-55.0
 2020-12-26,Chippewa,Daily_Cases,20.0
+2020-12-28,Chippewa,Daily_Cases,6.0
 2020-03-10,Clare,Daily_Cases,0.0
 2020-03-11,Clare,Daily_Cases,0.0
 2020-03-12,Clare,Daily_Cases,0.0
@@ -4711,6 +4728,7 @@ Date,County,Metrics,Values
 2020-12-22,Clare,Daily_Cases,11.0
 2020-12-23,Clare,Daily_Cases,9.0
 2020-12-26,Clare,Daily_Cases,15.0
+2020-12-28,Clare,Daily_Cases,16.0
 2020-03-10,Clinton,Daily_Cases,0.0
 2020-03-11,Clinton,Daily_Cases,0.0
 2020-03-12,Clinton,Daily_Cases,0.0
@@ -4983,6 +5001,7 @@ Date,County,Metrics,Values
 2020-12-22,Clinton,Daily_Cases,27.0
 2020-12-23,Clinton,Daily_Cases,28.0
 2020-12-26,Clinton,Daily_Cases,39.0
+2020-12-28,Clinton,Daily_Cases,46.0
 2020-03-10,Crawford,Daily_Cases,0.0
 2020-03-11,Crawford,Daily_Cases,0.0
 2020-03-12,Crawford,Daily_Cases,0.0
@@ -5255,6 +5274,7 @@ Date,County,Metrics,Values
 2020-12-22,Crawford,Daily_Cases,2.0
 2020-12-23,Crawford,Daily_Cases,2.0
 2020-12-26,Crawford,Daily_Cases,2.0
+2020-12-28,Crawford,Daily_Cases,5.0
 2020-03-10,Delta,Daily_Cases,0.0
 2020-03-11,Delta,Daily_Cases,0.0
 2020-03-12,Delta,Daily_Cases,0.0
@@ -5527,6 +5547,7 @@ Date,County,Metrics,Values
 2020-12-22,Delta,Daily_Cases,1.0
 2020-12-23,Delta,Daily_Cases,12.0
 2020-12-26,Delta,Daily_Cases,9.0
+2020-12-28,Delta,Daily_Cases,1.0
 2020-03-10,Detroit City,Daily_Cases,0.0
 2020-03-11,Detroit City,Daily_Cases,0.0
 2020-03-12,Detroit City,Daily_Cases,0.0
@@ -5799,6 +5820,7 @@ Date,County,Metrics,Values
 2020-12-22,Detroit City,Daily_Cases,154.0
 2020-12-23,Detroit City,Daily_Cases,129.0
 2020-12-26,Detroit City,Daily_Cases,300.0
+2020-12-28,Detroit City,Daily_Cases,146.0
 2020-03-10,Dickinson,Daily_Cases,0.0
 2020-03-11,Dickinson,Daily_Cases,0.0
 2020-03-12,Dickinson,Daily_Cases,0.0
@@ -6071,6 +6093,7 @@ Date,County,Metrics,Values
 2020-12-22,Dickinson,Daily_Cases,6.0
 2020-12-23,Dickinson,Daily_Cases,9.0
 2020-12-26,Dickinson,Daily_Cases,23.0
+2020-12-28,Dickinson,Daily_Cases,3.0
 2020-03-10,Eaton,Daily_Cases,0.0
 2020-03-11,Eaton,Daily_Cases,0.0
 2020-03-12,Eaton,Daily_Cases,0.0
@@ -6343,6 +6366,7 @@ Date,County,Metrics,Values
 2020-12-22,Eaton,Daily_Cases,40.0
 2020-12-23,Eaton,Daily_Cases,33.0
 2020-12-26,Eaton,Daily_Cases,76.0
+2020-12-28,Eaton,Daily_Cases,56.0
 2020-03-10,Emmet,Daily_Cases,0.0
 2020-03-11,Emmet,Daily_Cases,0.0
 2020-03-12,Emmet,Daily_Cases,0.0
@@ -6615,6 +6639,7 @@ Date,County,Metrics,Values
 2020-12-22,Emmet,Daily_Cases,2.0
 2020-12-23,Emmet,Daily_Cases,2.0
 2020-12-26,Emmet,Daily_Cases,4.0
+2020-12-28,Emmet,Daily_Cases,2.0
 2020-03-10,FCI,Daily_Cases,0.0
 2020-03-11,FCI,Daily_Cases,0.0
 2020-03-12,FCI,Daily_Cases,0.0
@@ -6887,6 +6912,7 @@ Date,County,Metrics,Values
 2020-12-22,FCI,Daily_Cases,3.0
 2020-12-23,FCI,Daily_Cases,18.0
 2020-12-26,FCI,Daily_Cases,2.0
+2020-12-28,FCI,Daily_Cases,3.0
 2020-03-10,Genesee,Daily_Cases,0.0
 2020-03-11,Genesee,Daily_Cases,0.0
 2020-03-12,Genesee,Daily_Cases,0.0
@@ -7159,6 +7185,7 @@ Date,County,Metrics,Values
 2020-12-22,Genesee,Daily_Cases,95.0
 2020-12-23,Genesee,Daily_Cases,152.0
 2020-12-26,Genesee,Daily_Cases,303.0
+2020-12-28,Genesee,Daily_Cases,125.0
 2020-03-10,Gladwin,Daily_Cases,0.0
 2020-03-11,Gladwin,Daily_Cases,0.0
 2020-03-12,Gladwin,Daily_Cases,0.0
@@ -7431,6 +7458,7 @@ Date,County,Metrics,Values
 2020-12-22,Gladwin,Daily_Cases,8.0
 2020-12-23,Gladwin,Daily_Cases,10.0
 2020-12-26,Gladwin,Daily_Cases,16.0
+2020-12-28,Gladwin,Daily_Cases,9.0
 2020-03-10,Gogebic,Daily_Cases,0.0
 2020-03-11,Gogebic,Daily_Cases,0.0
 2020-03-12,Gogebic,Daily_Cases,0.0
@@ -7703,6 +7731,7 @@ Date,County,Metrics,Values
 2020-12-22,Gogebic,Daily_Cases,1.0
 2020-12-23,Gogebic,Daily_Cases,0.0
 2020-12-26,Gogebic,Daily_Cases,2.0
+2020-12-28,Gogebic,Daily_Cases,1.0
 2020-03-10,Grand Traverse,Daily_Cases,0.0
 2020-03-11,Grand Traverse,Daily_Cases,0.0
 2020-03-12,Grand Traverse,Daily_Cases,0.0
@@ -7975,6 +8004,7 @@ Date,County,Metrics,Values
 2020-12-22,Grand Traverse,Daily_Cases,18.0
 2020-12-23,Grand Traverse,Daily_Cases,28.0
 2020-12-26,Grand Traverse,Daily_Cases,71.0
+2020-12-28,Grand Traverse,Daily_Cases,23.0
 2020-03-10,Gratiot,Daily_Cases,0.0
 2020-03-11,Gratiot,Daily_Cases,0.0
 2020-03-12,Gratiot,Daily_Cases,0.0
@@ -8247,6 +8277,7 @@ Date,County,Metrics,Values
 2020-12-22,Gratiot,Daily_Cases,6.0
 2020-12-23,Gratiot,Daily_Cases,14.0
 2020-12-26,Gratiot,Daily_Cases,18.0
+2020-12-28,Gratiot,Daily_Cases,3.0
 2020-03-10,Hillsdale,Daily_Cases,0.0
 2020-03-11,Hillsdale,Daily_Cases,0.0
 2020-03-12,Hillsdale,Daily_Cases,0.0
@@ -8519,6 +8550,7 @@ Date,County,Metrics,Values
 2020-12-22,Hillsdale,Daily_Cases,106.0
 2020-12-23,Hillsdale,Daily_Cases,22.0
 2020-12-26,Hillsdale,Daily_Cases,55.0
+2020-12-28,Hillsdale,Daily_Cases,14.0
 2020-03-10,Houghton,Daily_Cases,0.0
 2020-03-11,Houghton,Daily_Cases,0.0
 2020-03-12,Houghton,Daily_Cases,0.0
@@ -8791,6 +8823,7 @@ Date,County,Metrics,Values
 2020-12-22,Houghton,Daily_Cases,6.0
 2020-12-23,Houghton,Daily_Cases,-1.0
 2020-12-26,Houghton,Daily_Cases,13.0
+2020-12-28,Houghton,Daily_Cases,2.0
 2020-03-10,Huron,Daily_Cases,0.0
 2020-03-11,Huron,Daily_Cases,0.0
 2020-03-12,Huron,Daily_Cases,0.0
@@ -9063,6 +9096,7 @@ Date,County,Metrics,Values
 2020-12-22,Huron,Daily_Cases,21.0
 2020-12-23,Huron,Daily_Cases,16.0
 2020-12-26,Huron,Daily_Cases,27.0
+2020-12-28,Huron,Daily_Cases,9.0
 2020-03-10,Ingham,Daily_Cases,0.0
 2020-03-11,Ingham,Daily_Cases,0.0
 2020-03-12,Ingham,Daily_Cases,1.0
@@ -9335,6 +9369,7 @@ Date,County,Metrics,Values
 2020-12-22,Ingham,Daily_Cases,76.0
 2020-12-23,Ingham,Daily_Cases,51.0
 2020-12-26,Ingham,Daily_Cases,184.0
+2020-12-28,Ingham,Daily_Cases,120.0
 2020-03-10,Ionia,Daily_Cases,0.0
 2020-03-11,Ionia,Daily_Cases,0.0
 2020-03-12,Ionia,Daily_Cases,0.0
@@ -9607,6 +9642,7 @@ Date,County,Metrics,Values
 2020-12-22,Ionia,Daily_Cases,7.0
 2020-12-23,Ionia,Daily_Cases,22.0
 2020-12-26,Ionia,Daily_Cases,80.0
+2020-12-28,Ionia,Daily_Cases,38.0
 2020-03-10,Iosco,Daily_Cases,0.0
 2020-03-11,Iosco,Daily_Cases,0.0
 2020-03-12,Iosco,Daily_Cases,0.0
@@ -9879,6 +9915,7 @@ Date,County,Metrics,Values
 2020-12-22,Iosco,Daily_Cases,1.0
 2020-12-23,Iosco,Daily_Cases,1.0
 2020-12-26,Iosco,Daily_Cases,18.0
+2020-12-28,Iosco,Daily_Cases,5.0
 2020-03-10,Iron,Daily_Cases,0.0
 2020-03-11,Iron,Daily_Cases,0.0
 2020-03-12,Iron,Daily_Cases,0.0
@@ -10151,6 +10188,7 @@ Date,County,Metrics,Values
 2020-12-22,Iron,Daily_Cases,0.0
 2020-12-23,Iron,Daily_Cases,7.0
 2020-12-26,Iron,Daily_Cases,6.0
+2020-12-28,Iron,Daily_Cases,2.0
 2020-03-10,Isabella,Daily_Cases,0.0
 2020-03-11,Isabella,Daily_Cases,0.0
 2020-03-12,Isabella,Daily_Cases,0.0
@@ -10423,6 +10461,7 @@ Date,County,Metrics,Values
 2020-12-22,Isabella,Daily_Cases,18.0
 2020-12-23,Isabella,Daily_Cases,27.0
 2020-12-26,Isabella,Daily_Cases,48.0
+2020-12-28,Isabella,Daily_Cases,40.0
 2020-03-10,Jackson,Daily_Cases,0.0
 2020-03-11,Jackson,Daily_Cases,0.0
 2020-03-12,Jackson,Daily_Cases,0.0
@@ -10695,6 +10734,7 @@ Date,County,Metrics,Values
 2020-12-22,Jackson,Daily_Cases,35.0
 2020-12-23,Jackson,Daily_Cases,56.0
 2020-12-26,Jackson,Daily_Cases,120.0
+2020-12-28,Jackson,Daily_Cases,103.0
 2020-03-10,Kalamazoo,Daily_Cases,0.0
 2020-03-11,Kalamazoo,Daily_Cases,0.0
 2020-03-12,Kalamazoo,Daily_Cases,0.0
@@ -10967,6 +11007,7 @@ Date,County,Metrics,Values
 2020-12-22,Kalamazoo,Daily_Cases,52.0
 2020-12-23,Kalamazoo,Daily_Cases,31.0
 2020-12-26,Kalamazoo,Daily_Cases,224.0
+2020-12-28,Kalamazoo,Daily_Cases,100.0
 2020-03-10,Kalkaska,Daily_Cases,0.0
 2020-03-11,Kalkaska,Daily_Cases,0.0
 2020-03-12,Kalkaska,Daily_Cases,0.0
@@ -11239,6 +11280,7 @@ Date,County,Metrics,Values
 2020-12-22,Kalkaska,Daily_Cases,0.0
 2020-12-23,Kalkaska,Daily_Cases,3.0
 2020-12-26,Kalkaska,Daily_Cases,11.0
+2020-12-28,Kalkaska,Daily_Cases,2.0
 2020-03-10,Kent,Daily_Cases,0.0
 2020-03-11,Kent,Daily_Cases,0.0
 2020-03-12,Kent,Daily_Cases,3.0
@@ -11511,6 +11553,7 @@ Date,County,Metrics,Values
 2020-12-22,Kent,Daily_Cases,130.0
 2020-12-23,Kent,Daily_Cases,237.0
 2020-12-26,Kent,Daily_Cases,507.0
+2020-12-28,Kent,Daily_Cases,315.0
 2020-03-10,Keweenaw,Daily_Cases,0.0
 2020-03-11,Keweenaw,Daily_Cases,0.0
 2020-03-12,Keweenaw,Daily_Cases,0.0
@@ -11727,6 +11770,7 @@ Date,County,Metrics,Values
 2020-12-22,Keweenaw,Daily_Cases,0.0
 2020-12-23,Keweenaw,Daily_Cases,1.0
 2020-12-26,Keweenaw,Daily_Cases,1.0
+2020-12-28,Keweenaw,Daily_Cases,2.0
 2020-03-10,Lake,Daily_Cases,0.0
 2020-03-11,Lake,Daily_Cases,0.0
 2020-03-12,Lake,Daily_Cases,0.0
@@ -11951,6 +11995,7 @@ Date,County,Metrics,Values
 2020-12-22,Lake,Daily_Cases,4.0
 2020-12-23,Lake,Daily_Cases,1.0
 2020-12-26,Lake,Daily_Cases,4.0
+2020-12-28,Lake,Daily_Cases,5.0
 2020-03-10,Lapeer,Daily_Cases,0.0
 2020-03-11,Lapeer,Daily_Cases,0.0
 2020-03-12,Lapeer,Daily_Cases,0.0
@@ -12223,6 +12268,7 @@ Date,County,Metrics,Values
 2020-12-22,Lapeer,Daily_Cases,42.0
 2020-12-23,Lapeer,Daily_Cases,37.0
 2020-12-26,Lapeer,Daily_Cases,41.0
+2020-12-28,Lapeer,Daily_Cases,18.0
 2020-03-10,Leelanau,Daily_Cases,0.0
 2020-03-11,Leelanau,Daily_Cases,0.0
 2020-03-12,Leelanau,Daily_Cases,0.0
@@ -12495,6 +12541,7 @@ Date,County,Metrics,Values
 2020-12-22,Leelanau,Daily_Cases,2.0
 2020-12-23,Leelanau,Daily_Cases,12.0
 2020-12-26,Leelanau,Daily_Cases,15.0
+2020-12-28,Leelanau,Daily_Cases,3.0
 2020-03-10,Lenawee,Daily_Cases,0.0
 2020-03-11,Lenawee,Daily_Cases,0.0
 2020-03-12,Lenawee,Daily_Cases,0.0
@@ -12767,6 +12814,7 @@ Date,County,Metrics,Values
 2020-12-22,Lenawee,Daily_Cases,39.0
 2020-12-23,Lenawee,Daily_Cases,60.0
 2020-12-26,Lenawee,Daily_Cases,125.0
+2020-12-28,Lenawee,Daily_Cases,32.0
 2020-03-10,Livingston,Daily_Cases,0.0
 2020-03-11,Livingston,Daily_Cases,0.0
 2020-03-12,Livingston,Daily_Cases,0.0
@@ -13039,6 +13087,7 @@ Date,County,Metrics,Values
 2020-12-22,Livingston,Daily_Cases,49.0
 2020-12-23,Livingston,Daily_Cases,37.0
 2020-12-26,Livingston,Daily_Cases,97.0
+2020-12-28,Livingston,Daily_Cases,41.0
 2020-03-10,Luce,Daily_Cases,0.0
 2020-03-11,Luce,Daily_Cases,0.0
 2020-03-12,Luce,Daily_Cases,0.0
@@ -13486,6 +13535,7 @@ Date,County,Metrics,Values
 2020-12-22,MDOC,Daily_Cases,378.0
 2020-12-23,MDOC,Daily_Cases,533.0
 2020-12-26,MDOC,Daily_Cases,424.0
+2020-12-28,MDOC,Daily_Cases,131.0
 2020-03-10,Mackinac,Daily_Cases,0.0
 2020-03-11,Mackinac,Daily_Cases,0.0
 2020-03-12,Mackinac,Daily_Cases,0.0
@@ -13682,6 +13732,7 @@ Date,County,Metrics,Values
 2020-12-22,Mackinac,Daily_Cases,0.0
 2020-12-23,Mackinac,Daily_Cases,1.0
 2020-12-26,Mackinac,Daily_Cases,5.0
+2020-12-28,Mackinac,Daily_Cases,1.0
 2020-03-10,Macomb,Daily_Cases,0.0
 2020-03-11,Macomb,Daily_Cases,0.0
 2020-03-12,Macomb,Daily_Cases,0.0
@@ -13954,6 +14005,7 @@ Date,County,Metrics,Values
 2020-12-22,Macomb,Daily_Cases,223.0
 2020-12-23,Macomb,Daily_Cases,284.0
 2020-12-26,Macomb,Daily_Cases,579.0
+2020-12-28,Macomb,Daily_Cases,211.0
 2020-03-10,Manistee,Daily_Cases,0.0
 2020-03-11,Manistee,Daily_Cases,0.0
 2020-03-12,Manistee,Daily_Cases,0.0
@@ -14226,6 +14278,7 @@ Date,County,Metrics,Values
 2020-12-22,Manistee,Daily_Cases,5.0
 2020-12-23,Manistee,Daily_Cases,14.0
 2020-12-26,Manistee,Daily_Cases,28.0
+2020-12-28,Manistee,Daily_Cases,-7.0
 2020-03-10,Marquette,Daily_Cases,0.0
 2020-03-11,Marquette,Daily_Cases,0.0
 2020-03-12,Marquette,Daily_Cases,0.0
@@ -14498,6 +14551,7 @@ Date,County,Metrics,Values
 2020-12-22,Marquette,Daily_Cases,2.0
 2020-12-23,Marquette,Daily_Cases,12.0
 2020-12-26,Marquette,Daily_Cases,40.0
+2020-12-28,Marquette,Daily_Cases,6.0
 2020-03-10,Mason,Daily_Cases,0.0
 2020-03-11,Mason,Daily_Cases,0.0
 2020-03-12,Mason,Daily_Cases,0.0
@@ -14736,6 +14790,7 @@ Date,County,Metrics,Values
 2020-12-22,Mason,Daily_Cases,6.0
 2020-12-23,Mason,Daily_Cases,16.0
 2020-12-26,Mason,Daily_Cases,21.0
+2020-12-28,Mason,Daily_Cases,5.0
 2020-03-10,Mecosta,Daily_Cases,0.0
 2020-03-11,Mecosta,Daily_Cases,0.0
 2020-03-12,Mecosta,Daily_Cases,0.0
@@ -15008,6 +15063,7 @@ Date,County,Metrics,Values
 2020-12-22,Mecosta,Daily_Cases,3.0
 2020-12-23,Mecosta,Daily_Cases,4.0
 2020-12-26,Mecosta,Daily_Cases,27.0
+2020-12-28,Mecosta,Daily_Cases,13.0
 2020-03-10,Menominee,Daily_Cases,0.0
 2020-03-11,Menominee,Daily_Cases,0.0
 2020-03-12,Menominee,Daily_Cases,0.0
@@ -15267,6 +15323,7 @@ Date,County,Metrics,Values
 2020-12-22,Menominee,Daily_Cases,8.0
 2020-12-23,Menominee,Daily_Cases,11.0
 2020-12-26,Menominee,Daily_Cases,14.0
+2020-12-28,Menominee,Daily_Cases,2.0
 2020-03-10,Midland,Daily_Cases,0.0
 2020-03-11,Midland,Daily_Cases,0.0
 2020-03-12,Midland,Daily_Cases,0.0
@@ -15539,6 +15596,7 @@ Date,County,Metrics,Values
 2020-12-22,Midland,Daily_Cases,44.0
 2020-12-23,Midland,Daily_Cases,42.0
 2020-12-26,Midland,Daily_Cases,43.0
+2020-12-28,Midland,Daily_Cases,22.0
 2020-03-10,Missaukee,Daily_Cases,0.0
 2020-03-11,Missaukee,Daily_Cases,0.0
 2020-03-12,Missaukee,Daily_Cases,0.0
@@ -15811,6 +15869,7 @@ Date,County,Metrics,Values
 2020-12-22,Missaukee,Daily_Cases,1.0
 2020-12-23,Missaukee,Daily_Cases,3.0
 2020-12-26,Missaukee,Daily_Cases,16.0
+2020-12-28,Missaukee,Daily_Cases,2.0
 2020-03-10,Monroe,Daily_Cases,0.0
 2020-03-11,Monroe,Daily_Cases,0.0
 2020-03-12,Monroe,Daily_Cases,0.0
@@ -16083,6 +16142,7 @@ Date,County,Metrics,Values
 2020-12-22,Monroe,Daily_Cases,44.0
 2020-12-23,Monroe,Daily_Cases,59.0
 2020-12-26,Monroe,Daily_Cases,90.0
+2020-12-28,Monroe,Daily_Cases,51.0
 2020-03-10,Montcalm,Daily_Cases,0.0
 2020-03-11,Montcalm,Daily_Cases,0.0
 2020-03-12,Montcalm,Daily_Cases,1.0
@@ -16355,6 +16415,7 @@ Date,County,Metrics,Values
 2020-12-22,Montcalm,Daily_Cases,11.0
 2020-12-23,Montcalm,Daily_Cases,23.0
 2020-12-26,Montcalm,Daily_Cases,39.0
+2020-12-28,Montcalm,Daily_Cases,25.0
 2020-03-10,Montmorency,Daily_Cases,0.0
 2020-03-11,Montmorency,Daily_Cases,0.0
 2020-03-12,Montmorency,Daily_Cases,0.0
@@ -16562,6 +16623,7 @@ Date,County,Metrics,Values
 2020-12-22,Montmorency,Daily_Cases,1.0
 2020-12-23,Montmorency,Daily_Cases,2.0
 2020-12-26,Montmorency,Daily_Cases,2.0
+2020-12-28,Montmorency,Daily_Cases,10.0
 2020-03-10,Muskegon,Daily_Cases,0.0
 2020-03-11,Muskegon,Daily_Cases,0.0
 2020-03-12,Muskegon,Daily_Cases,0.0
@@ -16834,6 +16896,7 @@ Date,County,Metrics,Values
 2020-12-22,Muskegon,Daily_Cases,16.0
 2020-12-23,Muskegon,Daily_Cases,31.0
 2020-12-26,Muskegon,Daily_Cases,117.0
+2020-12-28,Muskegon,Daily_Cases,37.0
 2020-03-10,Newaygo,Daily_Cases,0.0
 2020-03-11,Newaygo,Daily_Cases,0.0
 2020-03-12,Newaygo,Daily_Cases,0.0
@@ -17106,6 +17169,7 @@ Date,County,Metrics,Values
 2020-12-22,Newaygo,Daily_Cases,14.0
 2020-12-23,Newaygo,Daily_Cases,24.0
 2020-12-26,Newaygo,Daily_Cases,31.0
+2020-12-28,Newaygo,Daily_Cases,14.0
 2020-03-10,Not Reported,Daily_Cases,0.0
 2020-03-11,Not Reported,Daily_Cases,0.0
 2020-03-12,Not Reported,Daily_Cases,0.0
@@ -17553,6 +17617,7 @@ Date,County,Metrics,Values
 2020-12-22,Oakland,Daily_Cases,323.0
 2020-12-23,Oakland,Daily_Cases,294.0
 2020-12-26,Oakland,Daily_Cases,687.0
+2020-12-28,Oakland,Daily_Cases,330.0
 2020-03-10,Oceana,Daily_Cases,0.0
 2020-03-11,Oceana,Daily_Cases,0.0
 2020-03-12,Oceana,Daily_Cases,0.0
@@ -17825,6 +17890,7 @@ Date,County,Metrics,Values
 2020-12-22,Oceana,Daily_Cases,7.0
 2020-12-23,Oceana,Daily_Cases,6.0
 2020-12-26,Oceana,Daily_Cases,23.0
+2020-12-28,Oceana,Daily_Cases,5.0
 2020-03-10,Ogemaw,Daily_Cases,0.0
 2020-03-11,Ogemaw,Daily_Cases,0.0
 2020-03-12,Ogemaw,Daily_Cases,0.0
@@ -18097,6 +18163,7 @@ Date,County,Metrics,Values
 2020-12-22,Ogemaw,Daily_Cases,6.0
 2020-12-23,Ogemaw,Daily_Cases,2.0
 2020-12-26,Ogemaw,Daily_Cases,20.0
+2020-12-28,Ogemaw,Daily_Cases,10.0
 2020-03-10,Ontonagon,Daily_Cases,0.0
 2020-03-11,Ontonagon,Daily_Cases,0.0
 2020-03-12,Ontonagon,Daily_Cases,0.0
@@ -18317,6 +18384,7 @@ Date,County,Metrics,Values
 2020-12-22,Ontonagon,Daily_Cases,0.0
 2020-12-23,Ontonagon,Daily_Cases,0.0
 2020-12-26,Ontonagon,Daily_Cases,1.0
+2020-12-28,Ontonagon,Daily_Cases,0.0
 2020-03-10,Osceola,Daily_Cases,0.0
 2020-03-11,Osceola,Daily_Cases,0.0
 2020-03-12,Osceola,Daily_Cases,0.0
@@ -18541,6 +18609,7 @@ Date,County,Metrics,Values
 2020-12-22,Osceola,Daily_Cases,11.0
 2020-12-23,Osceola,Daily_Cases,4.0
 2020-12-26,Osceola,Daily_Cases,14.0
+2020-12-28,Osceola,Daily_Cases,2.0
 2020-03-10,Oscoda,Daily_Cases,0.0
 2020-03-11,Oscoda,Daily_Cases,0.0
 2020-03-12,Oscoda,Daily_Cases,0.0
@@ -18813,6 +18882,7 @@ Date,County,Metrics,Values
 2020-12-22,Oscoda,Daily_Cases,1.0
 2020-12-23,Oscoda,Daily_Cases,-1.0
 2020-12-26,Oscoda,Daily_Cases,6.0
+2020-12-28,Oscoda,Daily_Cases,13.0
 2020-03-10,Other,Daily_Cases,0.0
 2020-03-11,Other,Daily_Cases,0.0
 2020-03-12,Other,Daily_Cases,0.0
@@ -19260,6 +19330,7 @@ Date,County,Metrics,Values
 2020-12-22,Otsego,Daily_Cases,1.0
 2020-12-23,Otsego,Daily_Cases,4.0
 2020-12-26,Otsego,Daily_Cases,9.0
+2020-12-28,Otsego,Daily_Cases,8.0
 2020-03-10,Ottawa,Daily_Cases,0.0
 2020-03-11,Ottawa,Daily_Cases,0.0
 2020-03-12,Ottawa,Daily_Cases,0.0
@@ -19532,6 +19603,7 @@ Date,County,Metrics,Values
 2020-12-22,Ottawa,Daily_Cases,50.0
 2020-12-23,Ottawa,Daily_Cases,112.0
 2020-12-26,Ottawa,Daily_Cases,295.0
+2020-12-28,Ottawa,Daily_Cases,90.0
 2020-03-10,Out of State,Daily_Cases,0.0
 2020-03-11,Out of State,Daily_Cases,0.0
 2020-03-12,Out of State,Daily_Cases,0.0
@@ -19797,6 +19869,7 @@ Date,County,Metrics,Values
 2020-12-22,Out of State,Daily_Cases,17.0
 2020-12-23,Out of State,Daily_Cases,15.0
 2020-12-26,Out of State,Daily_Cases,40.0
+2020-12-28,Out of State,Daily_Cases,0.0
 2020-03-10,Out-of-State,Daily_Cases,0.0
 2020-03-11,Out-of-State,Daily_Cases,0.0
 2020-03-12,Out-of-State,Daily_Cases,0.0
@@ -20244,6 +20317,7 @@ Date,County,Metrics,Values
 2020-12-22,Presque Isle,Daily_Cases,3.0
 2020-12-23,Presque Isle,Daily_Cases,2.0
 2020-12-26,Presque Isle,Daily_Cases,16.0
+2020-12-28,Presque Isle,Daily_Cases,2.0
 2020-03-10,Roscommon,Daily_Cases,0.0
 2020-03-11,Roscommon,Daily_Cases,0.0
 2020-03-12,Roscommon,Daily_Cases,0.0
@@ -20516,6 +20590,7 @@ Date,County,Metrics,Values
 2020-12-22,Roscommon,Daily_Cases,5.0
 2020-12-23,Roscommon,Daily_Cases,4.0
 2020-12-26,Roscommon,Daily_Cases,29.0
+2020-12-28,Roscommon,Daily_Cases,2.0
 2020-03-10,Saginaw,Daily_Cases,0.0
 2020-03-11,Saginaw,Daily_Cases,0.0
 2020-03-12,Saginaw,Daily_Cases,0.0
@@ -20788,6 +20863,7 @@ Date,County,Metrics,Values
 2020-12-22,Saginaw,Daily_Cases,35.0
 2020-12-23,Saginaw,Daily_Cases,144.0
 2020-12-26,Saginaw,Daily_Cases,221.0
+2020-12-28,Saginaw,Daily_Cases,90.0
 2020-03-10,Sanilac,Daily_Cases,0.0
 2020-03-11,Sanilac,Daily_Cases,0.0
 2020-03-12,Sanilac,Daily_Cases,0.0
@@ -21060,6 +21136,7 @@ Date,County,Metrics,Values
 2020-12-22,Sanilac,Daily_Cases,6.0
 2020-12-23,Sanilac,Daily_Cases,8.0
 2020-12-26,Sanilac,Daily_Cases,51.0
+2020-12-28,Sanilac,Daily_Cases,8.0
 2020-03-10,Schoolcraft,Daily_Cases,0.0
 2020-03-11,Schoolcraft,Daily_Cases,0.0
 2020-03-12,Schoolcraft,Daily_Cases,0.0
@@ -21268,6 +21345,7 @@ Date,County,Metrics,Values
 2020-12-22,Schoolcraft,Daily_Cases,-1.0
 2020-12-23,Schoolcraft,Daily_Cases,0.0
 2020-12-26,Schoolcraft,Daily_Cases,0.0
+2020-12-28,Schoolcraft,Daily_Cases,1.0
 2020-03-10,Shiawassee,Daily_Cases,0.0
 2020-03-11,Shiawassee,Daily_Cases,0.0
 2020-03-12,Shiawassee,Daily_Cases,0.0
@@ -21540,6 +21618,7 @@ Date,County,Metrics,Values
 2020-12-22,Shiawassee,Daily_Cases,27.0
 2020-12-23,Shiawassee,Daily_Cases,29.0
 2020-12-26,Shiawassee,Daily_Cases,56.0
+2020-12-28,Shiawassee,Daily_Cases,28.0
 2020-03-10,St. Clair,Daily_Cases,0.0
 2020-03-11,St. Clair,Daily_Cases,0.0
 2020-03-12,St. Clair,Daily_Cases,1.0
@@ -21812,6 +21891,7 @@ Date,County,Metrics,Values
 2020-12-22,St. Clair,Daily_Cases,56.0
 2020-12-23,St. Clair,Daily_Cases,48.0
 2020-12-26,St. Clair,Daily_Cases,121.0
+2020-12-28,St. Clair,Daily_Cases,37.0
 2020-03-10,St. Joseph,Daily_Cases,0.0
 2020-03-11,St. Joseph,Daily_Cases,0.0
 2020-03-12,St. Joseph,Daily_Cases,0.0
@@ -22084,6 +22164,7 @@ Date,County,Metrics,Values
 2020-12-22,St. Joseph,Daily_Cases,20.0
 2020-12-23,St. Joseph,Daily_Cases,28.0
 2020-12-26,St. Joseph,Daily_Cases,58.0
+2020-12-28,St. Joseph,Daily_Cases,31.0
 2020-03-10,Tuscola,Daily_Cases,0.0
 2020-03-11,Tuscola,Daily_Cases,0.0
 2020-03-12,Tuscola,Daily_Cases,0.0
@@ -22356,6 +22437,7 @@ Date,County,Metrics,Values
 2020-12-22,Tuscola,Daily_Cases,2.0
 2020-12-23,Tuscola,Daily_Cases,21.0
 2020-12-26,Tuscola,Daily_Cases,32.0
+2020-12-28,Tuscola,Daily_Cases,17.0
 2020-03-10,Unknown,Daily_Cases,0.0
 2020-03-11,Unknown,Daily_Cases,0.0
 2020-03-12,Unknown,Daily_Cases,0.0
@@ -22803,6 +22885,7 @@ Date,County,Metrics,Values
 2020-12-22,Van Buren,Daily_Cases,-9.0
 2020-12-23,Van Buren,Daily_Cases,30.0
 2020-12-26,Van Buren,Daily_Cases,51.0
+2020-12-28,Van Buren,Daily_Cases,20.0
 2020-03-10,Washtenaw,Daily_Cases,0.0
 2020-03-11,Washtenaw,Daily_Cases,0.0
 2020-03-12,Washtenaw,Daily_Cases,2.0
@@ -23075,6 +23158,7 @@ Date,County,Metrics,Values
 2020-12-22,Washtenaw,Daily_Cases,134.0
 2020-12-23,Washtenaw,Daily_Cases,54.0
 2020-12-26,Washtenaw,Daily_Cases,170.0
+2020-12-28,Washtenaw,Daily_Cases,107.0
 2020-03-10,Wayne,Daily_Cases,0.0
 2020-03-11,Wayne,Daily_Cases,0.0
 2020-03-12,Wayne,Daily_Cases,0.0
@@ -23347,6 +23431,7 @@ Date,County,Metrics,Values
 2020-12-22,Wayne,Daily_Cases,421.0
 2020-12-23,Wayne,Daily_Cases,332.0
 2020-12-26,Wayne,Daily_Cases,822.0
+2020-12-28,Wayne,Daily_Cases,360.0
 2020-03-10,Wexford,Daily_Cases,0.0
 2020-03-11,Wexford,Daily_Cases,0.0
 2020-03-12,Wexford,Daily_Cases,0.0
@@ -23619,6 +23704,7 @@ Date,County,Metrics,Values
 2020-12-22,Wexford,Daily_Cases,7.0
 2020-12-23,Wexford,Daily_Cases,8.0
 2020-12-26,Wexford,Daily_Cases,11.0
+2020-12-28,Wexford,Daily_Cases,0.0
 2020-03-10,Alcona,Daily_Deaths,0.0
 2020-03-11,Alcona,Daily_Deaths,0.0
 2020-03-12,Alcona,Daily_Deaths,0.0
@@ -23891,6 +23977,7 @@ Date,County,Metrics,Values
 2020-12-22,Alcona,Daily_Deaths,1.0
 2020-12-23,Alcona,Daily_Deaths,0.0
 2020-12-26,Alcona,Daily_Deaths,0.0
+2020-12-28,Alcona,Daily_Deaths,0.0
 2020-03-10,Alger,Daily_Deaths,0.0
 2020-03-11,Alger,Daily_Deaths,0.0
 2020-03-12,Alger,Daily_Deaths,0.0
@@ -24122,6 +24209,7 @@ Date,County,Metrics,Values
 2020-12-22,Alger,Daily_Deaths,0.0
 2020-12-23,Alger,Daily_Deaths,0.0
 2020-12-26,Alger,Daily_Deaths,0.0
+2020-12-28,Alger,Daily_Deaths,0.0
 2020-03-10,Allegan,Daily_Deaths,0.0
 2020-03-11,Allegan,Daily_Deaths,0.0
 2020-03-12,Allegan,Daily_Deaths,0.0
@@ -24394,6 +24482,7 @@ Date,County,Metrics,Values
 2020-12-22,Allegan,Daily_Deaths,1.0
 2020-12-23,Allegan,Daily_Deaths,1.0
 2020-12-26,Allegan,Daily_Deaths,3.0
+2020-12-28,Allegan,Daily_Deaths,0.0
 2020-03-10,Alpena,Daily_Deaths,0.0
 2020-03-11,Alpena,Daily_Deaths,0.0
 2020-03-12,Alpena,Daily_Deaths,0.0
@@ -24666,6 +24755,7 @@ Date,County,Metrics,Values
 2020-12-22,Alpena,Daily_Deaths,1.0
 2020-12-23,Alpena,Daily_Deaths,0.0
 2020-12-26,Alpena,Daily_Deaths,0.0
+2020-12-28,Alpena,Daily_Deaths,0.0
 2020-03-10,Antrim,Daily_Deaths,0.0
 2020-03-11,Antrim,Daily_Deaths,0.0
 2020-03-12,Antrim,Daily_Deaths,0.0
@@ -24880,6 +24970,7 @@ Date,County,Metrics,Values
 2020-12-22,Antrim,Daily_Deaths,0.0
 2020-12-23,Antrim,Daily_Deaths,0.0
 2020-12-26,Antrim,Daily_Deaths,1.0
+2020-12-28,Antrim,Daily_Deaths,0.0
 2020-03-10,Arenac,Daily_Deaths,0.0
 2020-03-11,Arenac,Daily_Deaths,0.0
 2020-03-12,Arenac,Daily_Deaths,0.0
@@ -25152,6 +25243,7 @@ Date,County,Metrics,Values
 2020-12-22,Arenac,Daily_Deaths,0.0
 2020-12-23,Arenac,Daily_Deaths,0.0
 2020-12-26,Arenac,Daily_Deaths,1.0
+2020-12-28,Arenac,Daily_Deaths,0.0
 2020-03-10,Baraga,Daily_Deaths,0.0
 2020-03-11,Baraga,Daily_Deaths,0.0
 2020-03-12,Baraga,Daily_Deaths,0.0
@@ -25401,6 +25493,7 @@ Date,County,Metrics,Values
 2020-12-22,Baraga,Daily_Deaths,0.0
 2020-12-23,Baraga,Daily_Deaths,0.0
 2020-12-26,Baraga,Daily_Deaths,0.0
+2020-12-28,Baraga,Daily_Deaths,0.0
 2020-03-10,Barry,Daily_Deaths,0.0
 2020-03-11,Barry,Daily_Deaths,0.0
 2020-03-12,Barry,Daily_Deaths,0.0
@@ -25673,6 +25766,7 @@ Date,County,Metrics,Values
 2020-12-22,Barry,Daily_Deaths,1.0
 2020-12-23,Barry,Daily_Deaths,1.0
 2020-12-26,Barry,Daily_Deaths,3.0
+2020-12-28,Barry,Daily_Deaths,0.0
 2020-03-10,Bay,Daily_Deaths,0.0
 2020-03-11,Bay,Daily_Deaths,0.0
 2020-03-12,Bay,Daily_Deaths,0.0
@@ -25945,6 +26039,7 @@ Date,County,Metrics,Values
 2020-12-22,Bay,Daily_Deaths,9.0
 2020-12-23,Bay,Daily_Deaths,0.0
 2020-12-26,Bay,Daily_Deaths,7.0
+2020-12-28,Bay,Daily_Deaths,0.0
 2020-03-10,Benzie,Daily_Deaths,0.0
 2020-03-11,Benzie,Daily_Deaths,0.0
 2020-03-12,Benzie,Daily_Deaths,0.0
@@ -26217,6 +26312,7 @@ Date,County,Metrics,Values
 2020-12-22,Benzie,Daily_Deaths,2.0
 2020-12-23,Benzie,Daily_Deaths,2.0
 2020-12-26,Benzie,Daily_Deaths,0.0
+2020-12-28,Benzie,Daily_Deaths,1.0
 2020-03-10,Berrien,Daily_Deaths,0.0
 2020-03-11,Berrien,Daily_Deaths,0.0
 2020-03-12,Berrien,Daily_Deaths,0.0
@@ -26489,6 +26585,7 @@ Date,County,Metrics,Values
 2020-12-22,Berrien,Daily_Deaths,5.0
 2020-12-23,Berrien,Daily_Deaths,3.0
 2020-12-26,Berrien,Daily_Deaths,1.0
+2020-12-28,Berrien,Daily_Deaths,0.0
 2020-03-10,Branch,Daily_Deaths,0.0
 2020-03-11,Branch,Daily_Deaths,0.0
 2020-03-12,Branch,Daily_Deaths,0.0
@@ -26761,6 +26858,7 @@ Date,County,Metrics,Values
 2020-12-22,Branch,Daily_Deaths,3.0
 2020-12-23,Branch,Daily_Deaths,1.0
 2020-12-26,Branch,Daily_Deaths,1.0
+2020-12-28,Branch,Daily_Deaths,3.0
 2020-03-10,Calhoun,Daily_Deaths,0.0
 2020-03-11,Calhoun,Daily_Deaths,0.0
 2020-03-12,Calhoun,Daily_Deaths,0.0
@@ -27033,6 +27131,7 @@ Date,County,Metrics,Values
 2020-12-22,Calhoun,Daily_Deaths,4.0
 2020-12-23,Calhoun,Daily_Deaths,1.0
 2020-12-26,Calhoun,Daily_Deaths,2.0
+2020-12-28,Calhoun,Daily_Deaths,3.0
 2020-03-10,Cass,Daily_Deaths,0.0
 2020-03-11,Cass,Daily_Deaths,0.0
 2020-03-12,Cass,Daily_Deaths,0.0
@@ -27305,6 +27404,7 @@ Date,County,Metrics,Values
 2020-12-22,Cass,Daily_Deaths,2.0
 2020-12-23,Cass,Daily_Deaths,0.0
 2020-12-26,Cass,Daily_Deaths,2.0
+2020-12-28,Cass,Daily_Deaths,0.0
 2020-03-10,Charlevoix,Daily_Deaths,0.0
 2020-03-11,Charlevoix,Daily_Deaths,0.0
 2020-03-12,Charlevoix,Daily_Deaths,0.0
@@ -27577,6 +27677,7 @@ Date,County,Metrics,Values
 2020-12-22,Charlevoix,Daily_Deaths,0.0
 2020-12-23,Charlevoix,Daily_Deaths,0.0
 2020-12-26,Charlevoix,Daily_Deaths,0.0
+2020-12-28,Charlevoix,Daily_Deaths,0.0
 2020-03-10,Cheboygan,Daily_Deaths,0.0
 2020-03-11,Cheboygan,Daily_Deaths,0.0
 2020-03-12,Cheboygan,Daily_Deaths,0.0
@@ -27849,6 +27950,7 @@ Date,County,Metrics,Values
 2020-12-22,Cheboygan,Daily_Deaths,1.0
 2020-12-23,Cheboygan,Daily_Deaths,1.0
 2020-12-26,Cheboygan,Daily_Deaths,0.0
+2020-12-28,Cheboygan,Daily_Deaths,1.0
 2020-03-10,Chippewa,Daily_Deaths,0.0
 2020-03-11,Chippewa,Daily_Deaths,0.0
 2020-03-12,Chippewa,Daily_Deaths,0.0
@@ -28059,6 +28161,7 @@ Date,County,Metrics,Values
 2020-12-22,Chippewa,Daily_Deaths,0.0
 2020-12-23,Chippewa,Daily_Deaths,1.0
 2020-12-26,Chippewa,Daily_Deaths,0.0
+2020-12-28,Chippewa,Daily_Deaths,0.0
 2020-03-10,Clare,Daily_Deaths,0.0
 2020-03-11,Clare,Daily_Deaths,0.0
 2020-03-12,Clare,Daily_Deaths,0.0
@@ -28331,6 +28434,7 @@ Date,County,Metrics,Values
 2020-12-22,Clare,Daily_Deaths,4.0
 2020-12-23,Clare,Daily_Deaths,1.0
 2020-12-26,Clare,Daily_Deaths,0.0
+2020-12-28,Clare,Daily_Deaths,2.0
 2020-03-10,Clinton,Daily_Deaths,0.0
 2020-03-11,Clinton,Daily_Deaths,0.0
 2020-03-12,Clinton,Daily_Deaths,0.0
@@ -28603,6 +28707,7 @@ Date,County,Metrics,Values
 2020-12-22,Clinton,Daily_Deaths,3.0
 2020-12-23,Clinton,Daily_Deaths,1.0
 2020-12-26,Clinton,Daily_Deaths,1.0
+2020-12-28,Clinton,Daily_Deaths,1.0
 2020-03-10,Crawford,Daily_Deaths,0.0
 2020-03-11,Crawford,Daily_Deaths,0.0
 2020-03-12,Crawford,Daily_Deaths,0.0
@@ -28875,6 +28980,7 @@ Date,County,Metrics,Values
 2020-12-22,Crawford,Daily_Deaths,0.0
 2020-12-23,Crawford,Daily_Deaths,0.0
 2020-12-26,Crawford,Daily_Deaths,0.0
+2020-12-28,Crawford,Daily_Deaths,0.0
 2020-03-10,Delta,Daily_Deaths,0.0
 2020-03-11,Delta,Daily_Deaths,0.0
 2020-03-12,Delta,Daily_Deaths,0.0
@@ -29147,6 +29253,7 @@ Date,County,Metrics,Values
 2020-12-22,Delta,Daily_Deaths,0.0
 2020-12-23,Delta,Daily_Deaths,1.0
 2020-12-26,Delta,Daily_Deaths,0.0
+2020-12-28,Delta,Daily_Deaths,0.0
 2020-03-10,Detroit City,Daily_Deaths,0.0
 2020-03-11,Detroit City,Daily_Deaths,0.0
 2020-03-12,Detroit City,Daily_Deaths,0.0
@@ -29419,6 +29526,7 @@ Date,County,Metrics,Values
 2020-12-22,Detroit City,Daily_Deaths,4.0
 2020-12-23,Detroit City,Daily_Deaths,0.0
 2020-12-26,Detroit City,Daily_Deaths,11.0
+2020-12-28,Detroit City,Daily_Deaths,2.0
 2020-03-10,Dickinson,Daily_Deaths,0.0
 2020-03-11,Dickinson,Daily_Deaths,0.0
 2020-03-12,Dickinson,Daily_Deaths,0.0
@@ -29691,6 +29799,7 @@ Date,County,Metrics,Values
 2020-12-22,Dickinson,Daily_Deaths,0.0
 2020-12-23,Dickinson,Daily_Deaths,0.0
 2020-12-26,Dickinson,Daily_Deaths,1.0
+2020-12-28,Dickinson,Daily_Deaths,0.0
 2020-03-10,Eaton,Daily_Deaths,0.0
 2020-03-11,Eaton,Daily_Deaths,0.0
 2020-03-12,Eaton,Daily_Deaths,0.0
@@ -29963,6 +30072,7 @@ Date,County,Metrics,Values
 2020-12-22,Eaton,Daily_Deaths,1.0
 2020-12-23,Eaton,Daily_Deaths,0.0
 2020-12-26,Eaton,Daily_Deaths,5.0
+2020-12-28,Eaton,Daily_Deaths,0.0
 2020-03-10,Emmet,Daily_Deaths,0.0
 2020-03-11,Emmet,Daily_Deaths,0.0
 2020-03-12,Emmet,Daily_Deaths,0.0
@@ -30235,6 +30345,7 @@ Date,County,Metrics,Values
 2020-12-22,Emmet,Daily_Deaths,0.0
 2020-12-23,Emmet,Daily_Deaths,0.0
 2020-12-26,Emmet,Daily_Deaths,0.0
+2020-12-28,Emmet,Daily_Deaths,0.0
 2020-03-10,FCI,Daily_Deaths,0.0
 2020-03-11,FCI,Daily_Deaths,0.0
 2020-03-12,FCI,Daily_Deaths,0.0
@@ -30507,6 +30618,7 @@ Date,County,Metrics,Values
 2020-12-22,FCI,Daily_Deaths,0.0
 2020-12-23,FCI,Daily_Deaths,0.0
 2020-12-26,FCI,Daily_Deaths,0.0
+2020-12-28,FCI,Daily_Deaths,0.0
 2020-03-10,Genesee,Daily_Deaths,0.0
 2020-03-11,Genesee,Daily_Deaths,0.0
 2020-03-12,Genesee,Daily_Deaths,0.0
@@ -30779,6 +30891,7 @@ Date,County,Metrics,Values
 2020-12-22,Genesee,Daily_Deaths,8.0
 2020-12-23,Genesee,Daily_Deaths,2.0
 2020-12-26,Genesee,Daily_Deaths,11.0
+2020-12-28,Genesee,Daily_Deaths,16.0
 2020-03-10,Gladwin,Daily_Deaths,0.0
 2020-03-11,Gladwin,Daily_Deaths,0.0
 2020-03-12,Gladwin,Daily_Deaths,0.0
@@ -31051,6 +31164,7 @@ Date,County,Metrics,Values
 2020-12-22,Gladwin,Daily_Deaths,0.0
 2020-12-23,Gladwin,Daily_Deaths,2.0
 2020-12-26,Gladwin,Daily_Deaths,0.0
+2020-12-28,Gladwin,Daily_Deaths,2.0
 2020-03-10,Gogebic,Daily_Deaths,0.0
 2020-03-11,Gogebic,Daily_Deaths,0.0
 2020-03-12,Gogebic,Daily_Deaths,0.0
@@ -31323,6 +31437,7 @@ Date,County,Metrics,Values
 2020-12-22,Gogebic,Daily_Deaths,1.0
 2020-12-23,Gogebic,Daily_Deaths,1.0
 2020-12-26,Gogebic,Daily_Deaths,0.0
+2020-12-28,Gogebic,Daily_Deaths,0.0
 2020-03-10,Grand Traverse,Daily_Deaths,0.0
 2020-03-11,Grand Traverse,Daily_Deaths,0.0
 2020-03-12,Grand Traverse,Daily_Deaths,0.0
@@ -31595,6 +31710,7 @@ Date,County,Metrics,Values
 2020-12-22,Grand Traverse,Daily_Deaths,1.0
 2020-12-23,Grand Traverse,Daily_Deaths,2.0
 2020-12-26,Grand Traverse,Daily_Deaths,1.0
+2020-12-28,Grand Traverse,Daily_Deaths,0.0
 2020-03-10,Gratiot,Daily_Deaths,0.0
 2020-03-11,Gratiot,Daily_Deaths,0.0
 2020-03-12,Gratiot,Daily_Deaths,0.0
@@ -31867,6 +31983,7 @@ Date,County,Metrics,Values
 2020-12-22,Gratiot,Daily_Deaths,2.0
 2020-12-23,Gratiot,Daily_Deaths,0.0
 2020-12-26,Gratiot,Daily_Deaths,4.0
+2020-12-28,Gratiot,Daily_Deaths,0.0
 2020-03-10,Hillsdale,Daily_Deaths,0.0
 2020-03-11,Hillsdale,Daily_Deaths,0.0
 2020-03-12,Hillsdale,Daily_Deaths,0.0
@@ -32139,6 +32256,7 @@ Date,County,Metrics,Values
 2020-12-22,Hillsdale,Daily_Deaths,1.0
 2020-12-23,Hillsdale,Daily_Deaths,0.0
 2020-12-26,Hillsdale,Daily_Deaths,4.0
+2020-12-28,Hillsdale,Daily_Deaths,1.0
 2020-03-10,Houghton,Daily_Deaths,0.0
 2020-03-11,Houghton,Daily_Deaths,0.0
 2020-03-12,Houghton,Daily_Deaths,0.0
@@ -32411,6 +32529,7 @@ Date,County,Metrics,Values
 2020-12-22,Houghton,Daily_Deaths,2.0
 2020-12-23,Houghton,Daily_Deaths,1.0
 2020-12-26,Houghton,Daily_Deaths,0.0
+2020-12-28,Houghton,Daily_Deaths,0.0
 2020-03-10,Huron,Daily_Deaths,0.0
 2020-03-11,Huron,Daily_Deaths,0.0
 2020-03-12,Huron,Daily_Deaths,0.0
@@ -32683,6 +32802,7 @@ Date,County,Metrics,Values
 2020-12-22,Huron,Daily_Deaths,2.0
 2020-12-23,Huron,Daily_Deaths,0.0
 2020-12-26,Huron,Daily_Deaths,3.0
+2020-12-28,Huron,Daily_Deaths,0.0
 2020-03-10,Ingham,Daily_Deaths,0.0
 2020-03-11,Ingham,Daily_Deaths,0.0
 2020-03-12,Ingham,Daily_Deaths,0.0
@@ -32955,6 +33075,7 @@ Date,County,Metrics,Values
 2020-12-22,Ingham,Daily_Deaths,-3.0
 2020-12-23,Ingham,Daily_Deaths,5.0
 2020-12-26,Ingham,Daily_Deaths,7.0
+2020-12-28,Ingham,Daily_Deaths,1.0
 2020-03-10,Ionia,Daily_Deaths,0.0
 2020-03-11,Ionia,Daily_Deaths,0.0
 2020-03-12,Ionia,Daily_Deaths,0.0
@@ -33227,6 +33348,7 @@ Date,County,Metrics,Values
 2020-12-22,Ionia,Daily_Deaths,1.0
 2020-12-23,Ionia,Daily_Deaths,0.0
 2020-12-26,Ionia,Daily_Deaths,3.0
+2020-12-28,Ionia,Daily_Deaths,0.0
 2020-03-10,Iosco,Daily_Deaths,0.0
 2020-03-11,Iosco,Daily_Deaths,0.0
 2020-03-12,Iosco,Daily_Deaths,0.0
@@ -33499,6 +33621,7 @@ Date,County,Metrics,Values
 2020-12-22,Iosco,Daily_Deaths,1.0
 2020-12-23,Iosco,Daily_Deaths,0.0
 2020-12-26,Iosco,Daily_Deaths,1.0
+2020-12-28,Iosco,Daily_Deaths,0.0
 2020-03-10,Iron,Daily_Deaths,0.0
 2020-03-11,Iron,Daily_Deaths,0.0
 2020-03-12,Iron,Daily_Deaths,0.0
@@ -33771,6 +33894,7 @@ Date,County,Metrics,Values
 2020-12-22,Iron,Daily_Deaths,0.0
 2020-12-23,Iron,Daily_Deaths,0.0
 2020-12-26,Iron,Daily_Deaths,0.0
+2020-12-28,Iron,Daily_Deaths,0.0
 2020-03-10,Isabella,Daily_Deaths,0.0
 2020-03-11,Isabella,Daily_Deaths,0.0
 2020-03-12,Isabella,Daily_Deaths,0.0
@@ -34043,6 +34167,7 @@ Date,County,Metrics,Values
 2020-12-22,Isabella,Daily_Deaths,2.0
 2020-12-23,Isabella,Daily_Deaths,0.0
 2020-12-26,Isabella,Daily_Deaths,2.0
+2020-12-28,Isabella,Daily_Deaths,1.0
 2020-03-10,Jackson,Daily_Deaths,0.0
 2020-03-11,Jackson,Daily_Deaths,0.0
 2020-03-12,Jackson,Daily_Deaths,0.0
@@ -34315,6 +34440,7 @@ Date,County,Metrics,Values
 2020-12-22,Jackson,Daily_Deaths,4.0
 2020-12-23,Jackson,Daily_Deaths,0.0
 2020-12-26,Jackson,Daily_Deaths,8.0
+2020-12-28,Jackson,Daily_Deaths,1.0
 2020-03-10,Kalamazoo,Daily_Deaths,0.0
 2020-03-11,Kalamazoo,Daily_Deaths,0.0
 2020-03-12,Kalamazoo,Daily_Deaths,0.0
@@ -34587,6 +34713,7 @@ Date,County,Metrics,Values
 2020-12-22,Kalamazoo,Daily_Deaths,2.0
 2020-12-23,Kalamazoo,Daily_Deaths,0.0
 2020-12-26,Kalamazoo,Daily_Deaths,2.0
+2020-12-28,Kalamazoo,Daily_Deaths,3.0
 2020-03-10,Kalkaska,Daily_Deaths,0.0
 2020-03-11,Kalkaska,Daily_Deaths,0.0
 2020-03-12,Kalkaska,Daily_Deaths,0.0
@@ -34859,6 +34986,7 @@ Date,County,Metrics,Values
 2020-12-22,Kalkaska,Daily_Deaths,1.0
 2020-12-23,Kalkaska,Daily_Deaths,0.0
 2020-12-26,Kalkaska,Daily_Deaths,0.0
+2020-12-28,Kalkaska,Daily_Deaths,1.0
 2020-03-10,Kent,Daily_Deaths,0.0
 2020-03-11,Kent,Daily_Deaths,0.0
 2020-03-12,Kent,Daily_Deaths,0.0
@@ -35131,6 +35259,7 @@ Date,County,Metrics,Values
 2020-12-22,Kent,Daily_Deaths,7.0
 2020-12-23,Kent,Daily_Deaths,0.0
 2020-12-26,Kent,Daily_Deaths,13.0
+2020-12-28,Kent,Daily_Deaths,2.0
 2020-03-10,Keweenaw,Daily_Deaths,0.0
 2020-03-11,Keweenaw,Daily_Deaths,0.0
 2020-03-12,Keweenaw,Daily_Deaths,0.0
@@ -35347,6 +35476,7 @@ Date,County,Metrics,Values
 2020-12-22,Keweenaw,Daily_Deaths,0.0
 2020-12-23,Keweenaw,Daily_Deaths,0.0
 2020-12-26,Keweenaw,Daily_Deaths,0.0
+2020-12-28,Keweenaw,Daily_Deaths,0.0
 2020-03-10,Lake,Daily_Deaths,0.0
 2020-03-11,Lake,Daily_Deaths,0.0
 2020-03-12,Lake,Daily_Deaths,0.0
@@ -35571,6 +35701,7 @@ Date,County,Metrics,Values
 2020-12-22,Lake,Daily_Deaths,0.0
 2020-12-23,Lake,Daily_Deaths,0.0
 2020-12-26,Lake,Daily_Deaths,0.0
+2020-12-28,Lake,Daily_Deaths,0.0
 2020-03-10,Lapeer,Daily_Deaths,0.0
 2020-03-11,Lapeer,Daily_Deaths,0.0
 2020-03-12,Lapeer,Daily_Deaths,0.0
@@ -35843,6 +35974,7 @@ Date,County,Metrics,Values
 2020-12-22,Lapeer,Daily_Deaths,1.0
 2020-12-23,Lapeer,Daily_Deaths,0.0
 2020-12-26,Lapeer,Daily_Deaths,8.0
+2020-12-28,Lapeer,Daily_Deaths,1.0
 2020-03-10,Leelanau,Daily_Deaths,0.0
 2020-03-11,Leelanau,Daily_Deaths,0.0
 2020-03-12,Leelanau,Daily_Deaths,0.0
@@ -36115,6 +36247,7 @@ Date,County,Metrics,Values
 2020-12-22,Leelanau,Daily_Deaths,1.0
 2020-12-23,Leelanau,Daily_Deaths,0.0
 2020-12-26,Leelanau,Daily_Deaths,0.0
+2020-12-28,Leelanau,Daily_Deaths,0.0
 2020-03-10,Lenawee,Daily_Deaths,0.0
 2020-03-11,Lenawee,Daily_Deaths,0.0
 2020-03-12,Lenawee,Daily_Deaths,0.0
@@ -36387,6 +36520,7 @@ Date,County,Metrics,Values
 2020-12-22,Lenawee,Daily_Deaths,1.0
 2020-12-23,Lenawee,Daily_Deaths,0.0
 2020-12-26,Lenawee,Daily_Deaths,2.0
+2020-12-28,Lenawee,Daily_Deaths,0.0
 2020-03-10,Livingston,Daily_Deaths,0.0
 2020-03-11,Livingston,Daily_Deaths,0.0
 2020-03-12,Livingston,Daily_Deaths,0.0
@@ -36659,6 +36793,7 @@ Date,County,Metrics,Values
 2020-12-22,Livingston,Daily_Deaths,1.0
 2020-12-23,Livingston,Daily_Deaths,3.0
 2020-12-26,Livingston,Daily_Deaths,1.0
+2020-12-28,Livingston,Daily_Deaths,0.0
 2020-03-10,Luce,Daily_Deaths,0.0
 2020-03-11,Luce,Daily_Deaths,0.0
 2020-03-12,Luce,Daily_Deaths,0.0
@@ -37106,6 +37241,7 @@ Date,County,Metrics,Values
 2020-12-22,MDOC,Daily_Deaths,1.0
 2020-12-23,MDOC,Daily_Deaths,0.0
 2020-12-26,MDOC,Daily_Deaths,5.0
+2020-12-28,MDOC,Daily_Deaths,3.0
 2020-03-10,Mackinac,Daily_Deaths,0.0
 2020-03-11,Mackinac,Daily_Deaths,0.0
 2020-03-12,Mackinac,Daily_Deaths,0.0
@@ -37302,6 +37438,7 @@ Date,County,Metrics,Values
 2020-12-22,Mackinac,Daily_Deaths,0.0
 2020-12-23,Mackinac,Daily_Deaths,0.0
 2020-12-26,Mackinac,Daily_Deaths,0.0
+2020-12-28,Mackinac,Daily_Deaths,0.0
 2020-03-10,Macomb,Daily_Deaths,0.0
 2020-03-11,Macomb,Daily_Deaths,0.0
 2020-03-12,Macomb,Daily_Deaths,0.0
@@ -37574,6 +37711,7 @@ Date,County,Metrics,Values
 2020-12-22,Macomb,Daily_Deaths,14.0
 2020-12-23,Macomb,Daily_Deaths,7.0
 2020-12-26,Macomb,Daily_Deaths,29.0
+2020-12-28,Macomb,Daily_Deaths,1.0
 2020-03-10,Manistee,Daily_Deaths,0.0
 2020-03-11,Manistee,Daily_Deaths,0.0
 2020-03-12,Manistee,Daily_Deaths,0.0
@@ -37846,6 +37984,7 @@ Date,County,Metrics,Values
 2020-12-22,Manistee,Daily_Deaths,1.0
 2020-12-23,Manistee,Daily_Deaths,0.0
 2020-12-26,Manistee,Daily_Deaths,0.0
+2020-12-28,Manistee,Daily_Deaths,0.0
 2020-03-10,Marquette,Daily_Deaths,0.0
 2020-03-11,Marquette,Daily_Deaths,0.0
 2020-03-12,Marquette,Daily_Deaths,0.0
@@ -38118,6 +38257,7 @@ Date,County,Metrics,Values
 2020-12-22,Marquette,Daily_Deaths,0.0
 2020-12-23,Marquette,Daily_Deaths,0.0
 2020-12-26,Marquette,Daily_Deaths,2.0
+2020-12-28,Marquette,Daily_Deaths,0.0
 2020-03-10,Mason,Daily_Deaths,0.0
 2020-03-11,Mason,Daily_Deaths,0.0
 2020-03-12,Mason,Daily_Deaths,0.0
@@ -38356,6 +38496,7 @@ Date,County,Metrics,Values
 2020-12-22,Mason,Daily_Deaths,3.0
 2020-12-23,Mason,Daily_Deaths,0.0
 2020-12-26,Mason,Daily_Deaths,0.0
+2020-12-28,Mason,Daily_Deaths,1.0
 2020-03-10,Mecosta,Daily_Deaths,0.0
 2020-03-11,Mecosta,Daily_Deaths,0.0
 2020-03-12,Mecosta,Daily_Deaths,0.0
@@ -38628,6 +38769,7 @@ Date,County,Metrics,Values
 2020-12-22,Mecosta,Daily_Deaths,0.0
 2020-12-23,Mecosta,Daily_Deaths,0.0
 2020-12-26,Mecosta,Daily_Deaths,2.0
+2020-12-28,Mecosta,Daily_Deaths,0.0
 2020-03-10,Menominee,Daily_Deaths,0.0
 2020-03-11,Menominee,Daily_Deaths,0.0
 2020-03-12,Menominee,Daily_Deaths,0.0
@@ -38887,6 +39029,7 @@ Date,County,Metrics,Values
 2020-12-22,Menominee,Daily_Deaths,1.0
 2020-12-23,Menominee,Daily_Deaths,0.0
 2020-12-26,Menominee,Daily_Deaths,0.0
+2020-12-28,Menominee,Daily_Deaths,0.0
 2020-03-10,Midland,Daily_Deaths,0.0
 2020-03-11,Midland,Daily_Deaths,0.0
 2020-03-12,Midland,Daily_Deaths,0.0
@@ -39159,6 +39302,7 @@ Date,County,Metrics,Values
 2020-12-22,Midland,Daily_Deaths,2.0
 2020-12-23,Midland,Daily_Deaths,1.0
 2020-12-26,Midland,Daily_Deaths,3.0
+2020-12-28,Midland,Daily_Deaths,1.0
 2020-03-10,Missaukee,Daily_Deaths,0.0
 2020-03-11,Missaukee,Daily_Deaths,0.0
 2020-03-12,Missaukee,Daily_Deaths,0.0
@@ -39431,6 +39575,7 @@ Date,County,Metrics,Values
 2020-12-22,Missaukee,Daily_Deaths,0.0
 2020-12-23,Missaukee,Daily_Deaths,0.0
 2020-12-26,Missaukee,Daily_Deaths,0.0
+2020-12-28,Missaukee,Daily_Deaths,0.0
 2020-03-10,Monroe,Daily_Deaths,0.0
 2020-03-11,Monroe,Daily_Deaths,0.0
 2020-03-12,Monroe,Daily_Deaths,0.0
@@ -39703,6 +39848,7 @@ Date,County,Metrics,Values
 2020-12-22,Monroe,Daily_Deaths,2.0
 2020-12-23,Monroe,Daily_Deaths,2.0
 2020-12-26,Monroe,Daily_Deaths,3.0
+2020-12-28,Monroe,Daily_Deaths,0.0
 2020-03-10,Montcalm,Daily_Deaths,0.0
 2020-03-11,Montcalm,Daily_Deaths,0.0
 2020-03-12,Montcalm,Daily_Deaths,0.0
@@ -39975,6 +40121,7 @@ Date,County,Metrics,Values
 2020-12-22,Montcalm,Daily_Deaths,2.0
 2020-12-23,Montcalm,Daily_Deaths,0.0
 2020-12-26,Montcalm,Daily_Deaths,2.0
+2020-12-28,Montcalm,Daily_Deaths,1.0
 2020-03-10,Montmorency,Daily_Deaths,0.0
 2020-03-11,Montmorency,Daily_Deaths,0.0
 2020-03-12,Montmorency,Daily_Deaths,0.0
@@ -40182,6 +40329,7 @@ Date,County,Metrics,Values
 2020-12-22,Montmorency,Daily_Deaths,0.0
 2020-12-23,Montmorency,Daily_Deaths,0.0
 2020-12-26,Montmorency,Daily_Deaths,1.0
+2020-12-28,Montmorency,Daily_Deaths,1.0
 2020-03-10,Muskegon,Daily_Deaths,0.0
 2020-03-11,Muskegon,Daily_Deaths,0.0
 2020-03-12,Muskegon,Daily_Deaths,0.0
@@ -40454,6 +40602,7 @@ Date,County,Metrics,Values
 2020-12-22,Muskegon,Daily_Deaths,4.0
 2020-12-23,Muskegon,Daily_Deaths,4.0
 2020-12-26,Muskegon,Daily_Deaths,2.0
+2020-12-28,Muskegon,Daily_Deaths,0.0
 2020-03-10,Newaygo,Daily_Deaths,0.0
 2020-03-11,Newaygo,Daily_Deaths,0.0
 2020-03-12,Newaygo,Daily_Deaths,0.0
@@ -40726,6 +40875,7 @@ Date,County,Metrics,Values
 2020-12-22,Newaygo,Daily_Deaths,0.0
 2020-12-23,Newaygo,Daily_Deaths,0.0
 2020-12-26,Newaygo,Daily_Deaths,2.0
+2020-12-28,Newaygo,Daily_Deaths,0.0
 2020-03-10,Not Reported,Daily_Deaths,0.0
 2020-03-11,Not Reported,Daily_Deaths,0.0
 2020-03-12,Not Reported,Daily_Deaths,0.0
@@ -41173,6 +41323,7 @@ Date,County,Metrics,Values
 2020-12-22,Oakland,Daily_Deaths,15.0
 2020-12-23,Oakland,Daily_Deaths,8.0
 2020-12-26,Oakland,Daily_Deaths,32.0
+2020-12-28,Oakland,Daily_Deaths,1.0
 2020-03-10,Oceana,Daily_Deaths,0.0
 2020-03-11,Oceana,Daily_Deaths,0.0
 2020-03-12,Oceana,Daily_Deaths,0.0
@@ -41445,6 +41596,7 @@ Date,County,Metrics,Values
 2020-12-22,Oceana,Daily_Deaths,5.0
 2020-12-23,Oceana,Daily_Deaths,0.0
 2020-12-26,Oceana,Daily_Deaths,1.0
+2020-12-28,Oceana,Daily_Deaths,2.0
 2020-03-10,Ogemaw,Daily_Deaths,0.0
 2020-03-11,Ogemaw,Daily_Deaths,0.0
 2020-03-12,Ogemaw,Daily_Deaths,0.0
@@ -41717,6 +41869,7 @@ Date,County,Metrics,Values
 2020-12-22,Ogemaw,Daily_Deaths,1.0
 2020-12-23,Ogemaw,Daily_Deaths,0.0
 2020-12-26,Ogemaw,Daily_Deaths,3.0
+2020-12-28,Ogemaw,Daily_Deaths,-1.0
 2020-03-10,Ontonagon,Daily_Deaths,0.0
 2020-03-11,Ontonagon,Daily_Deaths,0.0
 2020-03-12,Ontonagon,Daily_Deaths,0.0
@@ -41937,6 +42090,7 @@ Date,County,Metrics,Values
 2020-12-22,Ontonagon,Daily_Deaths,0.0
 2020-12-23,Ontonagon,Daily_Deaths,0.0
 2020-12-26,Ontonagon,Daily_Deaths,1.0
+2020-12-28,Ontonagon,Daily_Deaths,0.0
 2020-03-10,Osceola,Daily_Deaths,0.0
 2020-03-11,Osceola,Daily_Deaths,0.0
 2020-03-12,Osceola,Daily_Deaths,0.0
@@ -42161,6 +42315,7 @@ Date,County,Metrics,Values
 2020-12-22,Osceola,Daily_Deaths,2.0
 2020-12-23,Osceola,Daily_Deaths,0.0
 2020-12-26,Osceola,Daily_Deaths,1.0
+2020-12-28,Osceola,Daily_Deaths,0.0
 2020-03-10,Oscoda,Daily_Deaths,0.0
 2020-03-11,Oscoda,Daily_Deaths,0.0
 2020-03-12,Oscoda,Daily_Deaths,0.0
@@ -42433,6 +42588,7 @@ Date,County,Metrics,Values
 2020-12-22,Oscoda,Daily_Deaths,0.0
 2020-12-23,Oscoda,Daily_Deaths,0.0
 2020-12-26,Oscoda,Daily_Deaths,0.0
+2020-12-28,Oscoda,Daily_Deaths,0.0
 2020-03-10,Other,Daily_Deaths,0.0
 2020-03-11,Other,Daily_Deaths,0.0
 2020-03-12,Other,Daily_Deaths,0.0
@@ -42880,6 +43036,7 @@ Date,County,Metrics,Values
 2020-12-22,Otsego,Daily_Deaths,0.0
 2020-12-23,Otsego,Daily_Deaths,1.0
 2020-12-26,Otsego,Daily_Deaths,0.0
+2020-12-28,Otsego,Daily_Deaths,0.0
 2020-03-10,Ottawa,Daily_Deaths,0.0
 2020-03-11,Ottawa,Daily_Deaths,0.0
 2020-03-12,Ottawa,Daily_Deaths,0.0
@@ -43152,6 +43309,7 @@ Date,County,Metrics,Values
 2020-12-22,Ottawa,Daily_Deaths,5.0
 2020-12-23,Ottawa,Daily_Deaths,4.0
 2020-12-26,Ottawa,Daily_Deaths,10.0
+2020-12-28,Ottawa,Daily_Deaths,1.0
 2020-03-10,Out of State,Daily_Deaths,0.0
 2020-03-11,Out of State,Daily_Deaths,0.0
 2020-03-12,Out of State,Daily_Deaths,0.0
@@ -43417,6 +43575,7 @@ Date,County,Metrics,Values
 2020-12-22,Out of State,Daily_Deaths,1.0
 2020-12-23,Out of State,Daily_Deaths,0.0
 2020-12-26,Out of State,Daily_Deaths,0.0
+2020-12-28,Out of State,Daily_Deaths,0.0
 2020-03-10,Out-of-State,Daily_Deaths,0.0
 2020-03-11,Out-of-State,Daily_Deaths,0.0
 2020-03-12,Out-of-State,Daily_Deaths,0.0
@@ -43864,6 +44023,7 @@ Date,County,Metrics,Values
 2020-12-22,Presque Isle,Daily_Deaths,0.0
 2020-12-23,Presque Isle,Daily_Deaths,0.0
 2020-12-26,Presque Isle,Daily_Deaths,0.0
+2020-12-28,Presque Isle,Daily_Deaths,2.0
 2020-03-10,Roscommon,Daily_Deaths,0.0
 2020-03-11,Roscommon,Daily_Deaths,0.0
 2020-03-12,Roscommon,Daily_Deaths,0.0
@@ -44136,6 +44296,7 @@ Date,County,Metrics,Values
 2020-12-22,Roscommon,Daily_Deaths,0.0
 2020-12-23,Roscommon,Daily_Deaths,0.0
 2020-12-26,Roscommon,Daily_Deaths,0.0
+2020-12-28,Roscommon,Daily_Deaths,0.0
 2020-03-10,Saginaw,Daily_Deaths,0.0
 2020-03-11,Saginaw,Daily_Deaths,0.0
 2020-03-12,Saginaw,Daily_Deaths,0.0
@@ -44408,6 +44569,7 @@ Date,County,Metrics,Values
 2020-12-22,Saginaw,Daily_Deaths,8.0
 2020-12-23,Saginaw,Daily_Deaths,1.0
 2020-12-26,Saginaw,Daily_Deaths,4.0
+2020-12-28,Saginaw,Daily_Deaths,1.0
 2020-03-10,Sanilac,Daily_Deaths,0.0
 2020-03-11,Sanilac,Daily_Deaths,0.0
 2020-03-12,Sanilac,Daily_Deaths,0.0
@@ -44680,6 +44842,7 @@ Date,County,Metrics,Values
 2020-12-22,Sanilac,Daily_Deaths,1.0
 2020-12-23,Sanilac,Daily_Deaths,-1.0
 2020-12-26,Sanilac,Daily_Deaths,2.0
+2020-12-28,Sanilac,Daily_Deaths,0.0
 2020-03-10,Schoolcraft,Daily_Deaths,0.0
 2020-03-11,Schoolcraft,Daily_Deaths,0.0
 2020-03-12,Schoolcraft,Daily_Deaths,0.0
@@ -44888,6 +45051,7 @@ Date,County,Metrics,Values
 2020-12-22,Schoolcraft,Daily_Deaths,0.0
 2020-12-23,Schoolcraft,Daily_Deaths,0.0
 2020-12-26,Schoolcraft,Daily_Deaths,0.0
+2020-12-28,Schoolcraft,Daily_Deaths,0.0
 2020-03-10,Shiawassee,Daily_Deaths,0.0
 2020-03-11,Shiawassee,Daily_Deaths,0.0
 2020-03-12,Shiawassee,Daily_Deaths,0.0
@@ -45160,6 +45324,7 @@ Date,County,Metrics,Values
 2020-12-22,Shiawassee,Daily_Deaths,1.0
 2020-12-23,Shiawassee,Daily_Deaths,0.0
 2020-12-26,Shiawassee,Daily_Deaths,0.0
+2020-12-28,Shiawassee,Daily_Deaths,0.0
 2020-03-10,St. Clair,Daily_Deaths,0.0
 2020-03-11,St. Clair,Daily_Deaths,0.0
 2020-03-12,St. Clair,Daily_Deaths,0.0
@@ -45432,6 +45597,7 @@ Date,County,Metrics,Values
 2020-12-22,St. Clair,Daily_Deaths,8.0
 2020-12-23,St. Clair,Daily_Deaths,4.0
 2020-12-26,St. Clair,Daily_Deaths,5.0
+2020-12-28,St. Clair,Daily_Deaths,0.0
 2020-03-10,St. Joseph,Daily_Deaths,0.0
 2020-03-11,St. Joseph,Daily_Deaths,0.0
 2020-03-12,St. Joseph,Daily_Deaths,0.0
@@ -45704,6 +45870,7 @@ Date,County,Metrics,Values
 2020-12-22,St. Joseph,Daily_Deaths,-1.0
 2020-12-23,St. Joseph,Daily_Deaths,0.0
 2020-12-26,St. Joseph,Daily_Deaths,2.0
+2020-12-28,St. Joseph,Daily_Deaths,0.0
 2020-03-10,Tuscola,Daily_Deaths,0.0
 2020-03-11,Tuscola,Daily_Deaths,0.0
 2020-03-12,Tuscola,Daily_Deaths,0.0
@@ -45976,6 +46143,7 @@ Date,County,Metrics,Values
 2020-12-22,Tuscola,Daily_Deaths,1.0
 2020-12-23,Tuscola,Daily_Deaths,2.0
 2020-12-26,Tuscola,Daily_Deaths,2.0
+2020-12-28,Tuscola,Daily_Deaths,0.0
 2020-03-10,Unknown,Daily_Deaths,0.0
 2020-03-11,Unknown,Daily_Deaths,0.0
 2020-03-12,Unknown,Daily_Deaths,0.0
@@ -46423,6 +46591,7 @@ Date,County,Metrics,Values
 2020-12-22,Van Buren,Daily_Deaths,0.0
 2020-12-23,Van Buren,Daily_Deaths,0.0
 2020-12-26,Van Buren,Daily_Deaths,2.0
+2020-12-28,Van Buren,Daily_Deaths,0.0
 2020-03-10,Washtenaw,Daily_Deaths,0.0
 2020-03-11,Washtenaw,Daily_Deaths,0.0
 2020-03-12,Washtenaw,Daily_Deaths,0.0
@@ -46695,6 +46864,7 @@ Date,County,Metrics,Values
 2020-12-22,Washtenaw,Daily_Deaths,7.0
 2020-12-23,Washtenaw,Daily_Deaths,0.0
 2020-12-26,Washtenaw,Daily_Deaths,7.0
+2020-12-28,Washtenaw,Daily_Deaths,0.0
 2020-03-10,Wayne,Daily_Deaths,0.0
 2020-03-11,Wayne,Daily_Deaths,0.0
 2020-03-12,Wayne,Daily_Deaths,0.0
@@ -46967,6 +47137,7 @@ Date,County,Metrics,Values
 2020-12-22,Wayne,Daily_Deaths,10.0
 2020-12-23,Wayne,Daily_Deaths,7.0
 2020-12-26,Wayne,Daily_Deaths,22.0
+2020-12-28,Wayne,Daily_Deaths,3.0
 2020-03-10,Wexford,Daily_Deaths,0.0
 2020-03-11,Wexford,Daily_Deaths,0.0
 2020-03-12,Wexford,Daily_Deaths,0.0
@@ -47239,6 +47410,7 @@ Date,County,Metrics,Values
 2020-12-22,Wexford,Daily_Deaths,1.0
 2020-12-23,Wexford,Daily_Deaths,0.0
 2020-12-26,Wexford,Daily_Deaths,0.0
+2020-12-28,Wexford,Daily_Deaths,1.0
 2020-03-10,Alcona,Cases_7-Day,0.0
 2020-03-11,Alcona,Cases_7-Day,0.0
 2020-03-12,Alcona,Cases_7-Day,0.0
@@ -47511,6 +47683,7 @@ Date,County,Metrics,Values
 2020-12-22,Alcona,Cases_7-Day,3.142857142857143
 2020-12-23,Alcona,Cases_7-Day,3.0
 2020-12-26,Alcona,Cases_7-Day,3.2857142857142856
+2020-12-28,Alcona,Cases_7-Day,3.142857142857143
 2020-03-10,Alger,Cases_7-Day,0.0
 2020-03-11,Alger,Cases_7-Day,0.0
 2020-03-12,Alger,Cases_7-Day,0.0
@@ -47742,6 +47915,7 @@ Date,County,Metrics,Values
 2020-12-22,Alger,Cases_7-Day,1.1428571428571428
 2020-12-23,Alger,Cases_7-Day,1.1428571428571428
 2020-12-26,Alger,Cases_7-Day,1.5714285714285714
+2020-12-28,Alger,Cases_7-Day,1.5714285714285714
 2020-03-10,Allegan,Cases_7-Day,0.0
 2020-03-11,Allegan,Cases_7-Day,0.0
 2020-03-12,Allegan,Cases_7-Day,0.0
@@ -48014,6 +48188,7 @@ Date,County,Metrics,Values
 2020-12-22,Allegan,Cases_7-Day,50.285714285714285
 2020-12-23,Allegan,Cases_7-Day,50.0
 2020-12-26,Allegan,Cases_7-Day,55.285714285714285
+2020-12-28,Allegan,Cases_7-Day,52.57142857142857
 2020-03-10,Alpena,Cases_7-Day,0.0
 2020-03-11,Alpena,Cases_7-Day,0.0
 2020-03-12,Alpena,Cases_7-Day,0.0
@@ -48286,6 +48461,7 @@ Date,County,Metrics,Values
 2020-12-22,Alpena,Cases_7-Day,10.142857142857142
 2020-12-23,Alpena,Cases_7-Day,10.142857142857142
 2020-12-26,Alpena,Cases_7-Day,12.857142857142858
+2020-12-28,Alpena,Cases_7-Day,12.571428571428571
 2020-03-10,Antrim,Cases_7-Day,0.0
 2020-03-11,Antrim,Cases_7-Day,0.0
 2020-03-12,Antrim,Cases_7-Day,0.0
@@ -48500,6 +48676,7 @@ Date,County,Metrics,Values
 2020-12-22,Antrim,Cases_7-Day,3.142857142857143
 2020-12-23,Antrim,Cases_7-Day,2.857142857142857
 2020-12-26,Antrim,Cases_7-Day,4.0
+2020-12-28,Antrim,Cases_7-Day,3.2857142857142856
 2020-03-10,Arenac,Cases_7-Day,0.0
 2020-03-11,Arenac,Cases_7-Day,0.0
 2020-03-12,Arenac,Cases_7-Day,0.0
@@ -48772,6 +48949,7 @@ Date,County,Metrics,Values
 2020-12-22,Arenac,Cases_7-Day,3.0
 2020-12-23,Arenac,Cases_7-Day,2.5714285714285716
 2020-12-26,Arenac,Cases_7-Day,3.2857142857142856
+2020-12-28,Arenac,Cases_7-Day,3.0
 2020-03-10,Baraga,Cases_7-Day,0.0
 2020-03-11,Baraga,Cases_7-Day,0.0
 2020-03-12,Baraga,Cases_7-Day,0.0
@@ -49021,6 +49199,7 @@ Date,County,Metrics,Values
 2020-12-22,Baraga,Cases_7-Day,-0.2857142857142857
 2020-12-23,Baraga,Cases_7-Day,0.0
 2020-12-26,Baraga,Cases_7-Day,0.2857142857142857
+2020-12-28,Baraga,Cases_7-Day,0.0
 2020-03-10,Barry,Cases_7-Day,0.0
 2020-03-11,Barry,Cases_7-Day,0.0
 2020-03-12,Barry,Cases_7-Day,0.0
@@ -49293,6 +49472,7 @@ Date,County,Metrics,Values
 2020-12-22,Barry,Cases_7-Day,21.0
 2020-12-23,Barry,Cases_7-Day,18.857142857142858
 2020-12-26,Barry,Cases_7-Day,20.0
+2020-12-28,Barry,Cases_7-Day,21.285714285714285
 2020-03-10,Bay,Cases_7-Day,0.0
 2020-03-11,Bay,Cases_7-Day,0.0
 2020-03-12,Bay,Cases_7-Day,0.0
@@ -49565,6 +49745,7 @@ Date,County,Metrics,Values
 2020-12-22,Bay,Cases_7-Day,55.42857142857143
 2020-12-23,Bay,Cases_7-Day,54.857142857142854
 2020-12-26,Bay,Cases_7-Day,61.42857142857143
+2020-12-28,Bay,Cases_7-Day,60.285714285714285
 2020-03-10,Benzie,Cases_7-Day,0.0
 2020-03-11,Benzie,Cases_7-Day,0.0
 2020-03-12,Benzie,Cases_7-Day,0.0
@@ -49837,6 +50018,7 @@ Date,County,Metrics,Values
 2020-12-22,Benzie,Cases_7-Day,3.0
 2020-12-23,Benzie,Cases_7-Day,2.5714285714285716
 2020-12-26,Benzie,Cases_7-Day,2.5714285714285716
+2020-12-28,Benzie,Cases_7-Day,2.857142857142857
 2020-03-10,Berrien,Cases_7-Day,0.0
 2020-03-11,Berrien,Cases_7-Day,0.0
 2020-03-12,Berrien,Cases_7-Day,0.0
@@ -50109,6 +50291,7 @@ Date,County,Metrics,Values
 2020-12-22,Berrien,Cases_7-Day,58.857142857142854
 2020-12-23,Berrien,Cases_7-Day,57.57142857142857
 2020-12-26,Berrien,Cases_7-Day,66.71428571428571
+2020-12-28,Berrien,Cases_7-Day,68.42857142857143
 2020-03-10,Branch,Cases_7-Day,0.0
 2020-03-11,Branch,Cases_7-Day,0.0
 2020-03-12,Branch,Cases_7-Day,0.0
@@ -50381,6 +50564,7 @@ Date,County,Metrics,Values
 2020-12-22,Branch,Cases_7-Day,22.428571428571427
 2020-12-23,Branch,Cases_7-Day,20.428571428571427
 2020-12-26,Branch,Cases_7-Day,27.714285714285715
+2020-12-28,Branch,Cases_7-Day,28.0
 2020-03-10,Calhoun,Cases_7-Day,0.0
 2020-03-11,Calhoun,Cases_7-Day,0.0
 2020-03-12,Calhoun,Cases_7-Day,0.0
@@ -50653,6 +50837,7 @@ Date,County,Metrics,Values
 2020-12-22,Calhoun,Cases_7-Day,47.714285714285715
 2020-12-23,Calhoun,Cases_7-Day,47.57142857142857
 2020-12-26,Calhoun,Cases_7-Day,52.42857142857143
+2020-12-28,Calhoun,Cases_7-Day,50.285714285714285
 2020-03-10,Cass,Cases_7-Day,0.0
 2020-03-11,Cass,Cases_7-Day,0.0
 2020-03-12,Cass,Cases_7-Day,0.0
@@ -50925,6 +51110,7 @@ Date,County,Metrics,Values
 2020-12-22,Cass,Cases_7-Day,25.285714285714285
 2020-12-23,Cass,Cases_7-Day,23.714285714285715
 2020-12-26,Cass,Cases_7-Day,26.571428571428573
+2020-12-28,Cass,Cases_7-Day,25.714285714285715
 2020-03-10,Charlevoix,Cases_7-Day,0.0
 2020-03-11,Charlevoix,Cases_7-Day,0.0
 2020-03-12,Charlevoix,Cases_7-Day,0.0
@@ -51197,6 +51383,7 @@ Date,County,Metrics,Values
 2020-12-22,Charlevoix,Cases_7-Day,6.428571428571429
 2020-12-23,Charlevoix,Cases_7-Day,5.714285714285714
 2020-12-26,Charlevoix,Cases_7-Day,5.857142857142857
+2020-12-28,Charlevoix,Cases_7-Day,5.428571428571429
 2020-03-10,Cheboygan,Cases_7-Day,0.0
 2020-03-11,Cheboygan,Cases_7-Day,0.0
 2020-03-12,Cheboygan,Cases_7-Day,0.0
@@ -51469,6 +51656,7 @@ Date,County,Metrics,Values
 2020-12-22,Cheboygan,Cases_7-Day,6.142857142857143
 2020-12-23,Cheboygan,Cases_7-Day,5.142857142857143
 2020-12-26,Cheboygan,Cases_7-Day,7.142857142857143
+2020-12-28,Cheboygan,Cases_7-Day,6.714285714285714
 2020-03-10,Chippewa,Cases_7-Day,0.0
 2020-03-11,Chippewa,Cases_7-Day,0.0
 2020-03-12,Chippewa,Cases_7-Day,0.0
@@ -51679,6 +51867,7 @@ Date,County,Metrics,Values
 2020-12-22,Chippewa,Cases_7-Day,15.571428571428571
 2020-12-23,Chippewa,Cases_7-Day,6.714285714285714
 2020-12-26,Chippewa,Cases_7-Day,9.285714285714286
+2020-12-28,Chippewa,Cases_7-Day,9.285714285714286
 2020-03-10,Clare,Cases_7-Day,0.0
 2020-03-11,Clare,Cases_7-Day,0.0
 2020-03-12,Clare,Cases_7-Day,0.0
@@ -51951,6 +52140,7 @@ Date,County,Metrics,Values
 2020-12-22,Clare,Cases_7-Day,15.285714285714286
 2020-12-23,Clare,Cases_7-Day,14.714285714285714
 2020-12-26,Clare,Cases_7-Day,15.285714285714286
+2020-12-28,Clare,Cases_7-Day,15.142857142857142
 2020-03-10,Clinton,Cases_7-Day,0.0
 2020-03-11,Clinton,Cases_7-Day,0.0
 2020-03-12,Clinton,Cases_7-Day,0.0
@@ -52223,6 +52413,7 @@ Date,County,Metrics,Values
 2020-12-22,Clinton,Cases_7-Day,29.857142857142858
 2020-12-23,Clinton,Cases_7-Day,27.857142857142858
 2020-12-26,Clinton,Cases_7-Day,27.142857142857142
+2020-12-28,Clinton,Cases_7-Day,26.0
 2020-03-10,Crawford,Cases_7-Day,0.0
 2020-03-11,Crawford,Cases_7-Day,0.0
 2020-03-12,Crawford,Cases_7-Day,0.0
@@ -52495,6 +52686,7 @@ Date,County,Metrics,Values
 2020-12-22,Crawford,Cases_7-Day,2.5714285714285716
 2020-12-23,Crawford,Cases_7-Day,1.7142857142857142
 2020-12-26,Crawford,Cases_7-Day,1.4285714285714286
+2020-12-28,Crawford,Cases_7-Day,2.0
 2020-03-10,Delta,Cases_7-Day,0.0
 2020-03-11,Delta,Cases_7-Day,0.0
 2020-03-12,Delta,Cases_7-Day,0.0
@@ -52767,6 +52959,7 @@ Date,County,Metrics,Values
 2020-12-22,Delta,Cases_7-Day,6.285714285714286
 2020-12-23,Delta,Cases_7-Day,7.714285714285714
 2020-12-26,Delta,Cases_7-Day,5.857142857142857
+2020-12-28,Delta,Cases_7-Day,4.714285714285714
 2020-03-10,Detroit City,Cases_7-Day,0.0
 2020-03-11,Detroit City,Cases_7-Day,0.0
 2020-03-12,Detroit City,Cases_7-Day,0.0
@@ -53039,6 +53232,7 @@ Date,County,Metrics,Values
 2020-12-22,Detroit City,Cases_7-Day,197.42857142857142
 2020-12-23,Detroit City,Cases_7-Day,177.71428571428572
 2020-12-26,Detroit City,Cases_7-Day,196.57142857142858
+2020-12-28,Detroit City,Cases_7-Day,196.14285714285714
 2020-03-10,Dickinson,Cases_7-Day,0.0
 2020-03-11,Dickinson,Cases_7-Day,0.0
 2020-03-12,Dickinson,Cases_7-Day,0.0
@@ -53311,6 +53505,7 @@ Date,County,Metrics,Values
 2020-12-22,Dickinson,Cases_7-Day,8.714285714285714
 2020-12-23,Dickinson,Cases_7-Day,8.285714285714286
 2020-12-26,Dickinson,Cases_7-Day,11.0
+2020-12-28,Dickinson,Cases_7-Day,9.428571428571429
 2020-03-10,Eaton,Cases_7-Day,0.0
 2020-03-11,Eaton,Cases_7-Day,0.0
 2020-03-12,Eaton,Cases_7-Day,0.0
@@ -53583,6 +53778,7 @@ Date,County,Metrics,Values
 2020-12-22,Eaton,Cases_7-Day,43.857142857142854
 2020-12-23,Eaton,Cases_7-Day,43.142857142857146
 2020-12-26,Eaton,Cases_7-Day,48.57142857142857
+2020-12-28,Eaton,Cases_7-Day,50.57142857142857
 2020-03-10,Emmet,Cases_7-Day,0.0
 2020-03-11,Emmet,Cases_7-Day,0.0
 2020-03-12,Emmet,Cases_7-Day,0.0
@@ -53855,6 +54051,7 @@ Date,County,Metrics,Values
 2020-12-22,Emmet,Cases_7-Day,2.2857142857142856
 2020-12-23,Emmet,Cases_7-Day,1.5714285714285714
 2020-12-26,Emmet,Cases_7-Day,2.5714285714285716
+2020-12-28,Emmet,Cases_7-Day,2.5714285714285716
 2020-03-10,FCI,Cases_7-Day,0.0
 2020-03-11,FCI,Cases_7-Day,0.0
 2020-03-12,FCI,Cases_7-Day,0.0
@@ -54127,6 +54324,7 @@ Date,County,Metrics,Values
 2020-12-22,FCI,Cases_7-Day,4.0
 2020-12-23,FCI,Cases_7-Day,6.571428571428571
 2020-12-26,FCI,Cases_7-Day,6.857142857142857
+2020-12-28,FCI,Cases_7-Day,7.142857142857143
 2020-03-10,Genesee,Cases_7-Day,0.0
 2020-03-11,Genesee,Cases_7-Day,0.0
 2020-03-12,Genesee,Cases_7-Day,0.0
@@ -54399,6 +54597,7 @@ Date,County,Metrics,Values
 2020-12-22,Genesee,Cases_7-Day,199.85714285714286
 2020-12-23,Genesee,Cases_7-Day,185.42857142857142
 2020-12-26,Genesee,Cases_7-Day,200.71428571428572
+2020-12-28,Genesee,Cases_7-Day,188.42857142857142
 2020-03-10,Gladwin,Cases_7-Day,0.0
 2020-03-11,Gladwin,Cases_7-Day,0.0
 2020-03-12,Gladwin,Cases_7-Day,0.0
@@ -54671,6 +54870,7 @@ Date,County,Metrics,Values
 2020-12-22,Gladwin,Cases_7-Day,7.0
 2020-12-23,Gladwin,Cases_7-Day,7.714285714285714
 2020-12-26,Gladwin,Cases_7-Day,8.571428571428571
+2020-12-28,Gladwin,Cases_7-Day,9.142857142857142
 2020-03-10,Gogebic,Cases_7-Day,0.0
 2020-03-11,Gogebic,Cases_7-Day,0.0
 2020-03-12,Gogebic,Cases_7-Day,0.0
@@ -54943,6 +55143,7 @@ Date,County,Metrics,Values
 2020-12-22,Gogebic,Cases_7-Day,2.857142857142857
 2020-12-23,Gogebic,Cases_7-Day,2.2857142857142856
 2020-12-26,Gogebic,Cases_7-Day,1.1428571428571428
+2020-12-28,Gogebic,Cases_7-Day,0.8571428571428571
 2020-03-10,Grand Traverse,Cases_7-Day,0.0
 2020-03-11,Grand Traverse,Cases_7-Day,0.0
 2020-03-12,Grand Traverse,Cases_7-Day,0.0
@@ -55215,6 +55416,7 @@ Date,County,Metrics,Values
 2020-12-22,Grand Traverse,Cases_7-Day,33.0
 2020-12-23,Grand Traverse,Cases_7-Day,33.285714285714285
 2020-12-26,Grand Traverse,Cases_7-Day,39.142857142857146
+2020-12-28,Grand Traverse,Cases_7-Day,37.285714285714285
 2020-03-10,Gratiot,Cases_7-Day,0.0
 2020-03-11,Gratiot,Cases_7-Day,0.0
 2020-03-12,Gratiot,Cases_7-Day,0.0
@@ -55487,6 +55689,7 @@ Date,County,Metrics,Values
 2020-12-22,Gratiot,Cases_7-Day,24.714285714285715
 2020-12-23,Gratiot,Cases_7-Day,23.857142857142858
 2020-12-26,Gratiot,Cases_7-Day,21.857142857142858
+2020-12-28,Gratiot,Cases_7-Day,19.857142857142858
 2020-03-10,Hillsdale,Cases_7-Day,0.0
 2020-03-11,Hillsdale,Cases_7-Day,0.0
 2020-03-12,Hillsdale,Cases_7-Day,0.0
@@ -55759,6 +55962,7 @@ Date,County,Metrics,Values
 2020-12-22,Hillsdale,Cases_7-Day,25.857142857142858
 2020-12-23,Hillsdale,Cases_7-Day,25.428571428571427
 2020-12-26,Hillsdale,Cases_7-Day,30.285714285714285
+2020-12-28,Hillsdale,Cases_7-Day,27.857142857142858
 2020-03-10,Houghton,Cases_7-Day,0.0
 2020-03-11,Houghton,Cases_7-Day,0.0
 2020-03-12,Houghton,Cases_7-Day,0.0
@@ -56031,6 +56235,7 @@ Date,County,Metrics,Values
 2020-12-22,Houghton,Cases_7-Day,9.857142857142858
 2020-12-23,Houghton,Cases_7-Day,7.714285714285714
 2020-12-26,Houghton,Cases_7-Day,7.714285714285714
+2020-12-28,Houghton,Cases_7-Day,6.857142857142857
 2020-03-10,Huron,Cases_7-Day,0.0
 2020-03-11,Huron,Cases_7-Day,0.0
 2020-03-12,Huron,Cases_7-Day,0.0
@@ -56303,6 +56508,7 @@ Date,County,Metrics,Values
 2020-12-22,Huron,Cases_7-Day,20.142857142857142
 2020-12-23,Huron,Cases_7-Day,17.857142857142858
 2020-12-26,Huron,Cases_7-Day,20.285714285714285
+2020-12-28,Huron,Cases_7-Day,18.142857142857142
 2020-03-10,Ingham,Cases_7-Day,0.0
 2020-03-11,Ingham,Cases_7-Day,0.0
 2020-03-12,Ingham,Cases_7-Day,0.3333333333333333
@@ -56575,6 +56781,7 @@ Date,County,Metrics,Values
 2020-12-22,Ingham,Cases_7-Day,126.42857142857143
 2020-12-23,Ingham,Cases_7-Day,119.0
 2020-12-26,Ingham,Cases_7-Day,127.57142857142857
+2020-12-28,Ingham,Cases_7-Day,127.14285714285714
 2020-03-10,Ionia,Cases_7-Day,0.0
 2020-03-11,Ionia,Cases_7-Day,0.0
 2020-03-12,Ionia,Cases_7-Day,0.0
@@ -56847,6 +57054,7 @@ Date,County,Metrics,Values
 2020-12-22,Ionia,Cases_7-Day,25.428571428571427
 2020-12-23,Ionia,Cases_7-Day,25.0
 2020-12-26,Ionia,Cases_7-Day,32.57142857142857
+2020-12-28,Ionia,Cases_7-Day,34.0
 2020-03-10,Iosco,Cases_7-Day,0.0
 2020-03-11,Iosco,Cases_7-Day,0.0
 2020-03-12,Iosco,Cases_7-Day,0.0
@@ -57119,6 +57327,7 @@ Date,County,Metrics,Values
 2020-12-22,Iosco,Cases_7-Day,11.714285714285714
 2020-12-23,Iosco,Cases_7-Day,9.714285714285714
 2020-12-26,Iosco,Cases_7-Day,11.142857142857142
+2020-12-28,Iosco,Cases_7-Day,10.142857142857142
 2020-03-10,Iron,Cases_7-Day,0.0
 2020-03-11,Iron,Cases_7-Day,0.0
 2020-03-12,Iron,Cases_7-Day,0.0
@@ -57391,6 +57600,7 @@ Date,County,Metrics,Values
 2020-12-22,Iron,Cases_7-Day,2.142857142857143
 2020-12-23,Iron,Cases_7-Day,3.2857142857142856
 2020-12-26,Iron,Cases_7-Day,3.5714285714285716
+2020-12-28,Iron,Cases_7-Day,3.5714285714285716
 2020-03-10,Isabella,Cases_7-Day,0.0
 2020-03-11,Isabella,Cases_7-Day,0.0
 2020-03-12,Isabella,Cases_7-Day,0.0
@@ -57663,6 +57873,7 @@ Date,County,Metrics,Values
 2020-12-22,Isabella,Cases_7-Day,27.0
 2020-12-23,Isabella,Cases_7-Day,27.285714285714285
 2020-12-26,Isabella,Cases_7-Day,29.571428571428573
+2020-12-28,Isabella,Cases_7-Day,31.857142857142858
 2020-03-10,Jackson,Cases_7-Day,0.0
 2020-03-11,Jackson,Cases_7-Day,0.0
 2020-03-12,Jackson,Cases_7-Day,0.0
@@ -57935,6 +58146,7 @@ Date,County,Metrics,Values
 2020-12-22,Jackson,Cases_7-Day,75.14285714285714
 2020-12-23,Jackson,Cases_7-Day,68.14285714285714
 2020-12-26,Jackson,Cases_7-Day,74.71428571428571
+2020-12-28,Jackson,Cases_7-Day,72.71428571428571
 2020-03-10,Kalamazoo,Cases_7-Day,0.0
 2020-03-11,Kalamazoo,Cases_7-Day,0.0
 2020-03-12,Kalamazoo,Cases_7-Day,0.0
@@ -58207,6 +58419,7 @@ Date,County,Metrics,Values
 2020-12-22,Kalamazoo,Cases_7-Day,90.28571428571429
 2020-12-23,Kalamazoo,Cases_7-Day,78.85714285714286
 2020-12-26,Kalamazoo,Cases_7-Day,96.57142857142857
+2020-12-28,Kalamazoo,Cases_7-Day,97.85714285714286
 2020-03-10,Kalkaska,Cases_7-Day,0.0
 2020-03-11,Kalkaska,Cases_7-Day,0.0
 2020-03-12,Kalkaska,Cases_7-Day,0.0
@@ -58479,6 +58692,7 @@ Date,County,Metrics,Values
 2020-12-22,Kalkaska,Cases_7-Day,2.7142857142857144
 2020-12-23,Kalkaska,Cases_7-Day,3.0
 2020-12-26,Kalkaska,Cases_7-Day,4.142857142857143
+2020-12-28,Kalkaska,Cases_7-Day,4.142857142857143
 2020-03-10,Kent,Cases_7-Day,0.0
 2020-03-11,Kent,Cases_7-Day,0.0
 2020-03-12,Kent,Cases_7-Day,1.0
@@ -58751,6 +58965,7 @@ Date,County,Metrics,Values
 2020-12-22,Kent,Cases_7-Day,258.57142857142856
 2020-12-23,Kent,Cases_7-Day,259.2857142857143
 2020-12-26,Kent,Cases_7-Day,284.57142857142856
+2020-12-28,Kent,Cases_7-Day,288.0
 2020-03-10,Keweenaw,Cases_7-Day,0.0
 2020-03-11,Keweenaw,Cases_7-Day,0.0
 2020-03-12,Keweenaw,Cases_7-Day,0.0
@@ -58967,6 +59182,7 @@ Date,County,Metrics,Values
 2020-12-22,Keweenaw,Cases_7-Day,-0.7142857142857143
 2020-12-23,Keweenaw,Cases_7-Day,-0.5714285714285714
 2020-12-26,Keweenaw,Cases_7-Day,-0.5714285714285714
+2020-12-28,Keweenaw,Cases_7-Day,-0.2857142857142857
 2020-03-10,Lake,Cases_7-Day,0.0
 2020-03-11,Lake,Cases_7-Day,0.0
 2020-03-12,Lake,Cases_7-Day,0.0
@@ -59191,6 +59407,7 @@ Date,County,Metrics,Values
 2020-12-22,Lake,Cases_7-Day,3.2857142857142856
 2020-12-23,Lake,Cases_7-Day,3.2857142857142856
 2020-12-26,Lake,Cases_7-Day,3.2857142857142856
+2020-12-28,Lake,Cases_7-Day,3.7142857142857144
 2020-03-10,Lapeer,Cases_7-Day,0.0
 2020-03-11,Lapeer,Cases_7-Day,0.0
 2020-03-12,Lapeer,Cases_7-Day,0.0
@@ -59463,6 +59680,7 @@ Date,County,Metrics,Values
 2020-12-22,Lapeer,Cases_7-Day,51.0
 2020-12-23,Lapeer,Cases_7-Day,44.857142857142854
 2020-12-26,Lapeer,Cases_7-Day,45.857142857142854
+2020-12-28,Lapeer,Cases_7-Day,42.42857142857143
 2020-03-10,Leelanau,Cases_7-Day,0.0
 2020-03-11,Leelanau,Cases_7-Day,0.0
 2020-03-12,Leelanau,Cases_7-Day,0.0
@@ -59735,6 +59953,7 @@ Date,County,Metrics,Values
 2020-12-22,Leelanau,Cases_7-Day,8.0
 2020-12-23,Leelanau,Cases_7-Day,9.0
 2020-12-26,Leelanau,Cases_7-Day,10.0
+2020-12-28,Leelanau,Cases_7-Day,9.285714285714286
 2020-03-10,Lenawee,Cases_7-Day,0.0
 2020-03-11,Lenawee,Cases_7-Day,0.0
 2020-03-12,Lenawee,Cases_7-Day,0.0
@@ -60007,6 +60226,7 @@ Date,County,Metrics,Values
 2020-12-22,Lenawee,Cases_7-Day,58.57142857142857
 2020-12-23,Lenawee,Cases_7-Day,54.42857142857143
 2020-12-26,Lenawee,Cases_7-Day,72.14285714285714
+2020-12-28,Lenawee,Cases_7-Day,66.57142857142857
 2020-03-10,Livingston,Cases_7-Day,0.0
 2020-03-11,Livingston,Cases_7-Day,0.0
 2020-03-12,Livingston,Cases_7-Day,0.0
@@ -60279,6 +60499,7 @@ Date,County,Metrics,Values
 2020-12-22,Livingston,Cases_7-Day,55.42857142857143
 2020-12-23,Livingston,Cases_7-Day,45.0
 2020-12-26,Livingston,Cases_7-Day,53.142857142857146
+2020-12-28,Livingston,Cases_7-Day,51.0
 2020-03-10,Luce,Cases_7-Day,0.0
 2020-03-11,Luce,Cases_7-Day,0.0
 2020-03-12,Luce,Cases_7-Day,0.0
@@ -60726,6 +60947,7 @@ Date,County,Metrics,Values
 2020-12-22,MDOC,Cases_7-Day,206.57142857142858
 2020-12-23,MDOC,Cases_7-Day,256.85714285714283
 2020-12-26,MDOC,Cases_7-Day,304.2857142857143
+2020-12-28,MDOC,Cases_7-Day,302.0
 2020-03-10,Mackinac,Cases_7-Day,0.0
 2020-03-11,Mackinac,Cases_7-Day,0.0
 2020-03-12,Mackinac,Cases_7-Day,0.0
@@ -60922,6 +61144,7 @@ Date,County,Metrics,Values
 2020-12-22,Mackinac,Cases_7-Day,1.0
 2020-12-23,Mackinac,Cases_7-Day,1.0
 2020-12-26,Mackinac,Cases_7-Day,1.7142857142857142
+2020-12-28,Mackinac,Cases_7-Day,1.5714285714285714
 2020-03-10,Macomb,Cases_7-Day,0.0
 2020-03-11,Macomb,Cases_7-Day,0.0
 2020-03-12,Macomb,Cases_7-Day,0.0
@@ -61194,6 +61417,7 @@ Date,County,Metrics,Values
 2020-12-22,Macomb,Cases_7-Day,337.85714285714283
 2020-12-23,Macomb,Cases_7-Day,296.85714285714283
 2020-12-26,Macomb,Cases_7-Day,330.85714285714283
+2020-12-28,Macomb,Cases_7-Day,317.14285714285717
 2020-03-10,Manistee,Cases_7-Day,0.0
 2020-03-11,Manistee,Cases_7-Day,0.0
 2020-03-12,Manistee,Cases_7-Day,0.0
@@ -61466,6 +61690,7 @@ Date,County,Metrics,Values
 2020-12-22,Manistee,Cases_7-Day,6.428571428571429
 2020-12-23,Manistee,Cases_7-Day,7.142857142857143
 2020-12-26,Manistee,Cases_7-Day,10.428571428571429
+2020-12-28,Manistee,Cases_7-Day,8.571428571428571
 2020-03-10,Marquette,Cases_7-Day,0.0
 2020-03-11,Marquette,Cases_7-Day,0.0
 2020-03-12,Marquette,Cases_7-Day,0.0
@@ -61738,6 +61963,7 @@ Date,County,Metrics,Values
 2020-12-22,Marquette,Cases_7-Day,13.571428571428571
 2020-12-23,Marquette,Cases_7-Day,14.0
 2020-12-26,Marquette,Cases_7-Day,17.0
+2020-12-28,Marquette,Cases_7-Day,16.285714285714285
 2020-03-10,Mason,Cases_7-Day,0.0
 2020-03-11,Mason,Cases_7-Day,0.0
 2020-03-12,Mason,Cases_7-Day,0.0
@@ -61976,6 +62202,7 @@ Date,County,Metrics,Values
 2020-12-22,Mason,Cases_7-Day,14.142857142857142
 2020-12-23,Mason,Cases_7-Day,14.714285714285714
 2020-12-26,Mason,Cases_7-Day,14.714285714285714
+2020-12-28,Mason,Cases_7-Day,14.0
 2020-03-10,Mecosta,Cases_7-Day,0.0
 2020-03-11,Mecosta,Cases_7-Day,0.0
 2020-03-12,Mecosta,Cases_7-Day,0.0
@@ -62248,6 +62475,7 @@ Date,County,Metrics,Values
 2020-12-22,Mecosta,Cases_7-Day,8.285714285714286
 2020-12-23,Mecosta,Cases_7-Day,7.428571428571429
 2020-12-26,Mecosta,Cases_7-Day,8.0
+2020-12-28,Mecosta,Cases_7-Day,8.857142857142858
 2020-03-10,Menominee,Cases_7-Day,0.0
 2020-03-11,Menominee,Cases_7-Day,0.0
 2020-03-12,Menominee,Cases_7-Day,0.0
@@ -62507,6 +62735,7 @@ Date,County,Metrics,Values
 2020-12-22,Menominee,Cases_7-Day,9.714285714285714
 2020-12-23,Menominee,Cases_7-Day,10.0
 2020-12-26,Menominee,Cases_7-Day,11.0
+2020-12-28,Menominee,Cases_7-Day,9.857142857142858
 2020-03-10,Midland,Cases_7-Day,0.0
 2020-03-11,Midland,Cases_7-Day,0.0
 2020-03-12,Midland,Cases_7-Day,0.0
@@ -62779,6 +63008,7 @@ Date,County,Metrics,Values
 2020-12-22,Midland,Cases_7-Day,31.571428571428573
 2020-12-23,Midland,Cases_7-Day,32.142857142857146
 2020-12-26,Midland,Cases_7-Day,31.714285714285715
+2020-12-28,Midland,Cases_7-Day,33.57142857142857
 2020-03-10,Missaukee,Cases_7-Day,0.0
 2020-03-11,Missaukee,Cases_7-Day,0.0
 2020-03-12,Missaukee,Cases_7-Day,0.0
@@ -63051,6 +63281,7 @@ Date,County,Metrics,Values
 2020-12-22,Missaukee,Cases_7-Day,3.857142857142857
 2020-12-23,Missaukee,Cases_7-Day,3.4285714285714284
 2020-12-26,Missaukee,Cases_7-Day,4.857142857142857
+2020-12-28,Missaukee,Cases_7-Day,4.714285714285714
 2020-03-10,Monroe,Cases_7-Day,0.0
 2020-03-11,Monroe,Cases_7-Day,0.0
 2020-03-12,Monroe,Cases_7-Day,0.0
@@ -63323,6 +63554,7 @@ Date,County,Metrics,Values
 2020-12-22,Monroe,Cases_7-Day,58.142857142857146
 2020-12-23,Monroe,Cases_7-Day,55.857142857142854
 2020-12-26,Monroe,Cases_7-Day,61.42857142857143
+2020-12-28,Monroe,Cases_7-Day,62.285714285714285
 2020-03-10,Montcalm,Cases_7-Day,0.0
 2020-03-11,Montcalm,Cases_7-Day,0.0
 2020-03-12,Montcalm,Cases_7-Day,0.3333333333333333
@@ -63595,6 +63827,7 @@ Date,County,Metrics,Values
 2020-12-22,Montcalm,Cases_7-Day,-0.7142857142857143
 2020-12-23,Montcalm,Cases_7-Day,22.857142857142858
 2020-12-26,Montcalm,Cases_7-Day,22.714285714285715
+2020-12-28,Montcalm,Cases_7-Day,23.142857142857142
 2020-03-10,Montmorency,Cases_7-Day,0.0
 2020-03-11,Montmorency,Cases_7-Day,0.0
 2020-03-12,Montmorency,Cases_7-Day,0.0
@@ -63802,6 +64035,7 @@ Date,County,Metrics,Values
 2020-12-22,Montmorency,Cases_7-Day,0.0
 2020-12-23,Montmorency,Cases_7-Day,0.14285714285714285
 2020-12-26,Montmorency,Cases_7-Day,0.42857142857142855
+2020-12-28,Montmorency,Cases_7-Day,1.8571428571428572
 2020-03-10,Muskegon,Cases_7-Day,0.0
 2020-03-11,Muskegon,Cases_7-Day,0.0
 2020-03-12,Muskegon,Cases_7-Day,0.0
@@ -64074,6 +64308,7 @@ Date,County,Metrics,Values
 2020-12-22,Muskegon,Cases_7-Day,60.857142857142854
 2020-12-23,Muskegon,Cases_7-Day,56.0
 2020-12-26,Muskegon,Cases_7-Day,57.714285714285715
+2020-12-28,Muskegon,Cases_7-Day,51.0
 2020-03-10,Newaygo,Cases_7-Day,0.0
 2020-03-11,Newaygo,Cases_7-Day,0.0
 2020-03-12,Newaygo,Cases_7-Day,0.0
@@ -64346,6 +64581,7 @@ Date,County,Metrics,Values
 2020-12-22,Newaygo,Cases_7-Day,15.285714285714286
 2020-12-23,Newaygo,Cases_7-Day,17.428571428571427
 2020-12-26,Newaygo,Cases_7-Day,19.285714285714285
+2020-12-28,Newaygo,Cases_7-Day,19.285714285714285
 2020-03-10,Not Reported,Cases_7-Day,0.0
 2020-03-11,Not Reported,Cases_7-Day,0.0
 2020-03-12,Not Reported,Cases_7-Day,0.0
@@ -64793,6 +65029,7 @@ Date,County,Metrics,Values
 2020-12-22,Oakland,Cases_7-Day,426.2857142857143
 2020-12-23,Oakland,Cases_7-Day,378.0
 2020-12-26,Oakland,Cases_7-Day,417.57142857142856
+2020-12-28,Oakland,Cases_7-Day,404.42857142857144
 2020-03-10,Oceana,Cases_7-Day,0.0
 2020-03-11,Oceana,Cases_7-Day,0.0
 2020-03-12,Oceana,Cases_7-Day,0.0
@@ -65065,6 +65302,7 @@ Date,County,Metrics,Values
 2020-12-22,Oceana,Cases_7-Day,9.428571428571429
 2020-12-23,Oceana,Cases_7-Day,8.714285714285714
 2020-12-26,Oceana,Cases_7-Day,11.0
+2020-12-28,Oceana,Cases_7-Day,9.0
 2020-03-10,Ogemaw,Cases_7-Day,0.0
 2020-03-11,Ogemaw,Cases_7-Day,0.0
 2020-03-12,Ogemaw,Cases_7-Day,0.0
@@ -65337,6 +65575,7 @@ Date,County,Metrics,Values
 2020-12-22,Ogemaw,Cases_7-Day,11.428571428571429
 2020-12-23,Ogemaw,Cases_7-Day,10.857142857142858
 2020-12-26,Ogemaw,Cases_7-Day,12.285714285714286
+2020-12-28,Ogemaw,Cases_7-Day,12.0
 2020-03-10,Ontonagon,Cases_7-Day,0.0
 2020-03-11,Ontonagon,Cases_7-Day,0.0
 2020-03-12,Ontonagon,Cases_7-Day,0.0
@@ -65557,6 +65796,7 @@ Date,County,Metrics,Values
 2020-12-22,Ontonagon,Cases_7-Day,0.42857142857142855
 2020-12-23,Ontonagon,Cases_7-Day,0.2857142857142857
 2020-12-26,Ontonagon,Cases_7-Day,0.42857142857142855
+2020-12-28,Ontonagon,Cases_7-Day,0.42857142857142855
 2020-03-10,Osceola,Cases_7-Day,0.0
 2020-03-11,Osceola,Cases_7-Day,0.0
 2020-03-12,Osceola,Cases_7-Day,0.0
@@ -65781,6 +66021,7 @@ Date,County,Metrics,Values
 2020-12-22,Osceola,Cases_7-Day,9.571428571428571
 2020-12-23,Osceola,Cases_7-Day,9.0
 2020-12-26,Osceola,Cases_7-Day,9.714285714285714
+2020-12-28,Osceola,Cases_7-Day,9.0
 2020-03-10,Oscoda,Cases_7-Day,0.0
 2020-03-11,Oscoda,Cases_7-Day,0.0
 2020-03-12,Oscoda,Cases_7-Day,0.0
@@ -66053,6 +66294,7 @@ Date,County,Metrics,Values
 2020-12-22,Oscoda,Cases_7-Day,1.4285714285714286
 2020-12-23,Oscoda,Cases_7-Day,0.2857142857142857
 2020-12-26,Oscoda,Cases_7-Day,1.0
+2020-12-28,Oscoda,Cases_7-Day,3.0
 2020-03-10,Other,Cases_7-Day,0.0
 2020-03-11,Other,Cases_7-Day,0.0
 2020-03-12,Other,Cases_7-Day,0.0
@@ -66500,6 +66742,7 @@ Date,County,Metrics,Values
 2020-12-22,Otsego,Cases_7-Day,7.857142857142857
 2020-12-23,Otsego,Cases_7-Day,7.857142857142857
 2020-12-26,Otsego,Cases_7-Day,8.428571428571429
+2020-12-28,Otsego,Cases_7-Day,9.714285714285714
 2020-03-10,Ottawa,Cases_7-Day,0.0
 2020-03-11,Ottawa,Cases_7-Day,0.0
 2020-03-12,Ottawa,Cases_7-Day,0.0
@@ -66772,6 +67015,7 @@ Date,County,Metrics,Values
 2020-12-22,Ottawa,Cases_7-Day,137.42857142857142
 2020-12-23,Ottawa,Cases_7-Day,136.0
 2020-12-26,Ottawa,Cases_7-Day,150.57142857142858
+2020-12-28,Ottawa,Cases_7-Day,138.85714285714286
 2020-03-10,Out of State,Cases_7-Day,0.0
 2020-03-11,Out of State,Cases_7-Day,0.0
 2020-03-12,Out of State,Cases_7-Day,0.0
@@ -67037,6 +67281,7 @@ Date,County,Metrics,Values
 2020-12-22,Out of State,Cases_7-Day,6.285714285714286
 2020-12-23,Out of State,Cases_7-Day,10.571428571428571
 2020-12-26,Out of State,Cases_7-Day,14.0
+2020-12-28,Out of State,Cases_7-Day,14.285714285714286
 2020-03-10,Out-of-State,Cases_7-Day,0.0
 2020-03-11,Out-of-State,Cases_7-Day,0.0
 2020-03-12,Out-of-State,Cases_7-Day,0.0
@@ -67484,6 +67729,7 @@ Date,County,Metrics,Values
 2020-12-22,Presque Isle,Cases_7-Day,6.857142857142857
 2020-12-23,Presque Isle,Cases_7-Day,6.857142857142857
 2020-12-26,Presque Isle,Cases_7-Day,8.714285714285714
+2020-12-28,Presque Isle,Cases_7-Day,8.714285714285714
 2020-03-10,Roscommon,Cases_7-Day,0.0
 2020-03-11,Roscommon,Cases_7-Day,0.0
 2020-03-12,Roscommon,Cases_7-Day,0.0
@@ -67756,6 +68002,7 @@ Date,County,Metrics,Values
 2020-12-22,Roscommon,Cases_7-Day,10.571428571428571
 2020-12-23,Roscommon,Cases_7-Day,9.714285714285714
 2020-12-26,Roscommon,Cases_7-Day,12.714285714285714
+2020-12-28,Roscommon,Cases_7-Day,10.714285714285714
 2020-03-10,Saginaw,Cases_7-Day,0.0
 2020-03-11,Saginaw,Cases_7-Day,0.0
 2020-03-12,Saginaw,Cases_7-Day,0.0
@@ -68028,6 +68275,7 @@ Date,County,Metrics,Values
 2020-12-22,Saginaw,Cases_7-Day,108.0
 2020-12-23,Saginaw,Cases_7-Day,118.42857142857143
 2020-12-26,Saginaw,Cases_7-Day,131.85714285714286
+2020-12-28,Saginaw,Cases_7-Day,126.0
 2020-03-10,Sanilac,Cases_7-Day,0.0
 2020-03-11,Sanilac,Cases_7-Day,0.0
 2020-03-12,Sanilac,Cases_7-Day,0.0
@@ -68300,6 +68548,7 @@ Date,County,Metrics,Values
 2020-12-22,Sanilac,Cases_7-Day,15.571428571428571
 2020-12-23,Sanilac,Cases_7-Day,13.857142857142858
 2020-12-26,Sanilac,Cases_7-Day,18.714285714285715
+2020-12-28,Sanilac,Cases_7-Day,16.428571428571427
 2020-03-10,Schoolcraft,Cases_7-Day,0.0
 2020-03-11,Schoolcraft,Cases_7-Day,0.0
 2020-03-12,Schoolcraft,Cases_7-Day,0.0
@@ -68508,6 +68757,7 @@ Date,County,Metrics,Values
 2020-12-22,Schoolcraft,Cases_7-Day,1.0
 2020-12-23,Schoolcraft,Cases_7-Day,1.1428571428571428
 2020-12-26,Schoolcraft,Cases_7-Day,1.0
+2020-12-28,Schoolcraft,Cases_7-Day,1.0
 2020-03-10,Shiawassee,Cases_7-Day,0.0
 2020-03-11,Shiawassee,Cases_7-Day,0.0
 2020-03-12,Shiawassee,Cases_7-Day,0.0
@@ -68780,6 +69030,7 @@ Date,County,Metrics,Values
 2020-12-22,Shiawassee,Cases_7-Day,28.714285714285715
 2020-12-23,Shiawassee,Cases_7-Day,30.142857142857142
 2020-12-26,Shiawassee,Cases_7-Day,34.285714285714285
+2020-12-28,Shiawassee,Cases_7-Day,35.57142857142857
 2020-03-10,St. Clair,Cases_7-Day,0.0
 2020-03-11,St. Clair,Cases_7-Day,0.0
 2020-03-12,St. Clair,Cases_7-Day,0.3333333333333333
@@ -69052,6 +69303,7 @@ Date,County,Metrics,Values
 2020-12-22,St. Clair,Cases_7-Day,58.857142857142854
 2020-12-23,St. Clair,Cases_7-Day,57.142857142857146
 2020-12-26,St. Clair,Cases_7-Day,66.14285714285714
+2020-12-28,St. Clair,Cases_7-Day,64.0
 2020-03-10,St. Joseph,Cases_7-Day,0.0
 2020-03-11,St. Joseph,Cases_7-Day,0.0
 2020-03-12,St. Joseph,Cases_7-Day,0.0
@@ -69324,6 +69576,7 @@ Date,County,Metrics,Values
 2020-12-22,St. Joseph,Cases_7-Day,28.428571428571427
 2020-12-23,St. Joseph,Cases_7-Day,28.857142857142858
 2020-12-26,St. Joseph,Cases_7-Day,34.0
+2020-12-28,St. Joseph,Cases_7-Day,36.142857142857146
 2020-03-10,Tuscola,Cases_7-Day,0.0
 2020-03-11,Tuscola,Cases_7-Day,0.0
 2020-03-12,Tuscola,Cases_7-Day,0.0
@@ -69596,6 +69849,7 @@ Date,County,Metrics,Values
 2020-12-22,Tuscola,Cases_7-Day,25.142857142857142
 2020-12-23,Tuscola,Cases_7-Day,23.714285714285715
 2020-12-26,Tuscola,Cases_7-Day,22.571428571428573
+2020-12-28,Tuscola,Cases_7-Day,21.714285714285715
 2020-03-10,Unknown,Cases_7-Day,0.0
 2020-03-11,Unknown,Cases_7-Day,0.0
 2020-03-12,Unknown,Cases_7-Day,0.0
@@ -70043,6 +70297,7 @@ Date,County,Metrics,Values
 2020-12-22,Van Buren,Cases_7-Day,30.714285714285715
 2020-12-23,Van Buren,Cases_7-Day,30.714285714285715
 2020-12-26,Van Buren,Cases_7-Day,32.0
+2020-12-28,Van Buren,Cases_7-Day,30.857142857142858
 2020-03-10,Washtenaw,Cases_7-Day,0.0
 2020-03-11,Washtenaw,Cases_7-Day,0.0
 2020-03-12,Washtenaw,Cases_7-Day,0.6666666666666666
@@ -70315,6 +70570,7 @@ Date,County,Metrics,Values
 2020-12-22,Washtenaw,Cases_7-Day,125.0
 2020-12-23,Washtenaw,Cases_7-Day,103.57142857142857
 2020-12-26,Washtenaw,Cases_7-Day,111.57142857142857
+2020-12-28,Washtenaw,Cases_7-Day,111.28571428571429
 2020-03-10,Wayne,Cases_7-Day,0.0
 2020-03-11,Wayne,Cases_7-Day,0.0
 2020-03-12,Wayne,Cases_7-Day,0.0
@@ -70587,6 +70843,7 @@ Date,County,Metrics,Values
 2020-12-22,Wayne,Cases_7-Day,485.0
 2020-12-23,Wayne,Cases_7-Day,439.42857142857144
 2020-12-26,Wayne,Cases_7-Day,501.42857142857144
+2020-12-28,Wayne,Cases_7-Day,482.7142857142857
 2020-03-10,Wexford,Cases_7-Day,0.0
 2020-03-11,Wexford,Cases_7-Day,0.0
 2020-03-12,Wexford,Cases_7-Day,0.0
@@ -70859,6 +71116,7 @@ Date,County,Metrics,Values
 2020-12-22,Wexford,Cases_7-Day,11.142857142857142
 2020-12-23,Wexford,Cases_7-Day,10.428571428571429
 2020-12-26,Wexford,Cases_7-Day,11.0
+2020-12-28,Wexford,Cases_7-Day,8.428571428571429
 2020-03-10,Alcona,Deaths_7-Day,0.0
 2020-03-11,Alcona,Deaths_7-Day,0.0
 2020-03-12,Alcona,Deaths_7-Day,0.0
@@ -71131,6 +71389,7 @@ Date,County,Metrics,Values
 2020-12-22,Alcona,Deaths_7-Day,0.5714285714285714
 2020-12-23,Alcona,Deaths_7-Day,0.2857142857142857
 2020-12-26,Alcona,Deaths_7-Day,0.2857142857142857
+2020-12-28,Alcona,Deaths_7-Day,0.2857142857142857
 2020-03-10,Alger,Deaths_7-Day,0.0
 2020-03-11,Alger,Deaths_7-Day,0.0
 2020-03-12,Alger,Deaths_7-Day,0.0
@@ -71362,6 +71621,7 @@ Date,County,Metrics,Values
 2020-12-22,Alger,Deaths_7-Day,0.0
 2020-12-23,Alger,Deaths_7-Day,0.0
 2020-12-26,Alger,Deaths_7-Day,0.0
+2020-12-28,Alger,Deaths_7-Day,0.0
 2020-03-10,Allegan,Deaths_7-Day,0.0
 2020-03-11,Allegan,Deaths_7-Day,0.0
 2020-03-12,Allegan,Deaths_7-Day,0.0
@@ -71634,6 +71894,7 @@ Date,County,Metrics,Values
 2020-12-22,Allegan,Deaths_7-Day,1.1428571428571428
 2020-12-23,Allegan,Deaths_7-Day,1.1428571428571428
 2020-12-26,Allegan,Deaths_7-Day,1.5714285714285714
+2020-12-28,Allegan,Deaths_7-Day,1.2857142857142858
 2020-03-10,Alpena,Deaths_7-Day,0.0
 2020-03-11,Alpena,Deaths_7-Day,0.0
 2020-03-12,Alpena,Deaths_7-Day,0.0
@@ -71906,6 +72167,7 @@ Date,County,Metrics,Values
 2020-12-22,Alpena,Deaths_7-Day,0.5714285714285714
 2020-12-23,Alpena,Deaths_7-Day,0.42857142857142855
 2020-12-26,Alpena,Deaths_7-Day,0.42857142857142855
+2020-12-28,Alpena,Deaths_7-Day,0.42857142857142855
 2020-03-10,Antrim,Deaths_7-Day,0.0
 2020-03-11,Antrim,Deaths_7-Day,0.0
 2020-03-12,Antrim,Deaths_7-Day,0.0
@@ -72120,6 +72382,7 @@ Date,County,Metrics,Values
 2020-12-22,Antrim,Deaths_7-Day,0.0
 2020-12-23,Antrim,Deaths_7-Day,0.0
 2020-12-26,Antrim,Deaths_7-Day,0.14285714285714285
+2020-12-28,Antrim,Deaths_7-Day,0.0
 2020-03-10,Arenac,Deaths_7-Day,0.0
 2020-03-11,Arenac,Deaths_7-Day,0.0
 2020-03-12,Arenac,Deaths_7-Day,0.0
@@ -72392,6 +72655,7 @@ Date,County,Metrics,Values
 2020-12-22,Arenac,Deaths_7-Day,-0.14285714285714285
 2020-12-23,Arenac,Deaths_7-Day,-0.14285714285714285
 2020-12-26,Arenac,Deaths_7-Day,0.0
+2020-12-28,Arenac,Deaths_7-Day,0.0
 2020-03-10,Baraga,Deaths_7-Day,0.0
 2020-03-11,Baraga,Deaths_7-Day,0.0
 2020-03-12,Baraga,Deaths_7-Day,0.0
@@ -72641,6 +72905,7 @@ Date,County,Metrics,Values
 2020-12-22,Baraga,Deaths_7-Day,0.2857142857142857
 2020-12-23,Baraga,Deaths_7-Day,0.0
 2020-12-26,Baraga,Deaths_7-Day,0.0
+2020-12-28,Baraga,Deaths_7-Day,0.0
 2020-03-10,Barry,Deaths_7-Day,0.0
 2020-03-11,Barry,Deaths_7-Day,0.0
 2020-03-12,Barry,Deaths_7-Day,0.0
@@ -72913,6 +73178,7 @@ Date,County,Metrics,Values
 2020-12-22,Barry,Deaths_7-Day,0.8571428571428571
 2020-12-23,Barry,Deaths_7-Day,0.8571428571428571
 2020-12-26,Barry,Deaths_7-Day,1.2857142857142858
+2020-12-28,Barry,Deaths_7-Day,1.1428571428571428
 2020-03-10,Bay,Deaths_7-Day,0.0
 2020-03-11,Bay,Deaths_7-Day,0.0
 2020-03-12,Bay,Deaths_7-Day,0.0
@@ -73185,6 +73451,7 @@ Date,County,Metrics,Values
 2020-12-22,Bay,Deaths_7-Day,3.857142857142857
 2020-12-23,Bay,Deaths_7-Day,3.2857142857142856
 2020-12-26,Bay,Deaths_7-Day,3.7142857142857144
+2020-12-28,Bay,Deaths_7-Day,3.2857142857142856
 2020-03-10,Benzie,Deaths_7-Day,0.0
 2020-03-11,Benzie,Deaths_7-Day,0.0
 2020-03-12,Benzie,Deaths_7-Day,0.0
@@ -73457,6 +73724,7 @@ Date,County,Metrics,Values
 2020-12-22,Benzie,Deaths_7-Day,1.1428571428571428
 2020-12-23,Benzie,Deaths_7-Day,1.4285714285714286
 2020-12-26,Benzie,Deaths_7-Day,1.4285714285714286
+2020-12-28,Benzie,Deaths_7-Day,0.8571428571428571
 2020-03-10,Berrien,Deaths_7-Day,0.0
 2020-03-11,Berrien,Deaths_7-Day,0.0
 2020-03-12,Berrien,Deaths_7-Day,0.0
@@ -73729,6 +73997,7 @@ Date,County,Metrics,Values
 2020-12-22,Berrien,Deaths_7-Day,3.142857142857143
 2020-12-23,Berrien,Deaths_7-Day,3.0
 2020-12-26,Berrien,Deaths_7-Day,2.857142857142857
+2020-12-28,Berrien,Deaths_7-Day,2.142857142857143
 2020-03-10,Branch,Deaths_7-Day,0.0
 2020-03-11,Branch,Deaths_7-Day,0.0
 2020-03-12,Branch,Deaths_7-Day,0.0
@@ -74001,6 +74270,7 @@ Date,County,Metrics,Values
 2020-12-22,Branch,Deaths_7-Day,1.7142857142857142
 2020-12-23,Branch,Deaths_7-Day,1.8571428571428572
 2020-12-26,Branch,Deaths_7-Day,1.5714285714285714
+2020-12-28,Branch,Deaths_7-Day,1.8571428571428572
 2020-03-10,Calhoun,Deaths_7-Day,0.0
 2020-03-11,Calhoun,Deaths_7-Day,0.0
 2020-03-12,Calhoun,Deaths_7-Day,0.0
@@ -74273,6 +74543,7 @@ Date,County,Metrics,Values
 2020-12-22,Calhoun,Deaths_7-Day,2.857142857142857
 2020-12-23,Calhoun,Deaths_7-Day,2.2857142857142856
 2020-12-26,Calhoun,Deaths_7-Day,2.5714285714285716
+2020-12-28,Calhoun,Deaths_7-Day,2.4285714285714284
 2020-03-10,Cass,Deaths_7-Day,0.0
 2020-03-11,Cass,Deaths_7-Day,0.0
 2020-03-12,Cass,Deaths_7-Day,0.0
@@ -74545,6 +74816,7 @@ Date,County,Metrics,Values
 2020-12-22,Cass,Deaths_7-Day,0.7142857142857143
 2020-12-23,Cass,Deaths_7-Day,0.2857142857142857
 2020-12-26,Cass,Deaths_7-Day,0.5714285714285714
+2020-12-28,Cass,Deaths_7-Day,0.42857142857142855
 2020-03-10,Charlevoix,Deaths_7-Day,0.0
 2020-03-11,Charlevoix,Deaths_7-Day,0.0
 2020-03-12,Charlevoix,Deaths_7-Day,0.0
@@ -74817,6 +75089,7 @@ Date,County,Metrics,Values
 2020-12-22,Charlevoix,Deaths_7-Day,0.14285714285714285
 2020-12-23,Charlevoix,Deaths_7-Day,0.14285714285714285
 2020-12-26,Charlevoix,Deaths_7-Day,0.14285714285714285
+2020-12-28,Charlevoix,Deaths_7-Day,0.14285714285714285
 2020-03-10,Cheboygan,Deaths_7-Day,0.0
 2020-03-11,Cheboygan,Deaths_7-Day,0.0
 2020-03-12,Cheboygan,Deaths_7-Day,0.0
@@ -75089,6 +75362,7 @@ Date,County,Metrics,Values
 2020-12-22,Cheboygan,Deaths_7-Day,0.42857142857142855
 2020-12-23,Cheboygan,Deaths_7-Day,0.5714285714285714
 2020-12-26,Cheboygan,Deaths_7-Day,0.5714285714285714
+2020-12-28,Cheboygan,Deaths_7-Day,0.42857142857142855
 2020-03-10,Chippewa,Deaths_7-Day,0.0
 2020-03-11,Chippewa,Deaths_7-Day,0.0
 2020-03-12,Chippewa,Deaths_7-Day,0.0
@@ -75299,6 +75573,7 @@ Date,County,Metrics,Values
 2020-12-22,Chippewa,Deaths_7-Day,0.2857142857142857
 2020-12-23,Chippewa,Deaths_7-Day,0.42857142857142855
 2020-12-26,Chippewa,Deaths_7-Day,0.42857142857142855
+2020-12-28,Chippewa,Deaths_7-Day,0.2857142857142857
 2020-03-10,Clare,Deaths_7-Day,0.0
 2020-03-11,Clare,Deaths_7-Day,0.0
 2020-03-12,Clare,Deaths_7-Day,0.0
@@ -75571,6 +75846,7 @@ Date,County,Metrics,Values
 2020-12-22,Clare,Deaths_7-Day,1.1428571428571428
 2020-12-23,Clare,Deaths_7-Day,1.2857142857142858
 2020-12-26,Clare,Deaths_7-Day,1.2857142857142858
+2020-12-28,Clare,Deaths_7-Day,1.4285714285714286
 2020-03-10,Clinton,Deaths_7-Day,0.0
 2020-03-11,Clinton,Deaths_7-Day,0.0
 2020-03-12,Clinton,Deaths_7-Day,0.0
@@ -75843,6 +76119,7 @@ Date,County,Metrics,Values
 2020-12-22,Clinton,Deaths_7-Day,1.1428571428571428
 2020-12-23,Clinton,Deaths_7-Day,1.0
 2020-12-26,Clinton,Deaths_7-Day,1.0
+2020-12-28,Clinton,Deaths_7-Day,0.8571428571428571
 2020-03-10,Crawford,Deaths_7-Day,0.0
 2020-03-11,Crawford,Deaths_7-Day,0.0
 2020-03-12,Crawford,Deaths_7-Day,0.0
@@ -76115,6 +76392,7 @@ Date,County,Metrics,Values
 2020-12-22,Crawford,Deaths_7-Day,0.14285714285714285
 2020-12-23,Crawford,Deaths_7-Day,0.14285714285714285
 2020-12-26,Crawford,Deaths_7-Day,0.14285714285714285
+2020-12-28,Crawford,Deaths_7-Day,0.14285714285714285
 2020-03-10,Delta,Deaths_7-Day,0.0
 2020-03-11,Delta,Deaths_7-Day,0.0
 2020-03-12,Delta,Deaths_7-Day,0.0
@@ -76387,6 +76665,7 @@ Date,County,Metrics,Values
 2020-12-22,Delta,Deaths_7-Day,0.5714285714285714
 2020-12-23,Delta,Deaths_7-Day,0.7142857142857143
 2020-12-26,Delta,Deaths_7-Day,0.5714285714285714
+2020-12-28,Delta,Deaths_7-Day,0.2857142857142857
 2020-03-10,Detroit City,Deaths_7-Day,0.0
 2020-03-11,Detroit City,Deaths_7-Day,0.0
 2020-03-12,Detroit City,Deaths_7-Day,0.0
@@ -76659,6 +76938,7 @@ Date,County,Metrics,Values
 2020-12-22,Detroit City,Deaths_7-Day,4.142857142857143
 2020-12-23,Detroit City,Deaths_7-Day,2.857142857142857
 2020-12-26,Detroit City,Deaths_7-Day,4.0
+2020-12-28,Detroit City,Deaths_7-Day,3.2857142857142856
 2020-03-10,Dickinson,Deaths_7-Day,0.0
 2020-03-11,Dickinson,Deaths_7-Day,0.0
 2020-03-12,Dickinson,Deaths_7-Day,0.0
@@ -76931,6 +77211,7 @@ Date,County,Metrics,Values
 2020-12-22,Dickinson,Deaths_7-Day,0.2857142857142857
 2020-12-23,Dickinson,Deaths_7-Day,0.14285714285714285
 2020-12-26,Dickinson,Deaths_7-Day,0.2857142857142857
+2020-12-28,Dickinson,Deaths_7-Day,0.2857142857142857
 2020-03-10,Eaton,Deaths_7-Day,0.0
 2020-03-11,Eaton,Deaths_7-Day,0.0
 2020-03-12,Eaton,Deaths_7-Day,0.0
@@ -77203,6 +77484,7 @@ Date,County,Metrics,Values
 2020-12-22,Eaton,Deaths_7-Day,1.8571428571428572
 2020-12-23,Eaton,Deaths_7-Day,1.5714285714285714
 2020-12-26,Eaton,Deaths_7-Day,2.142857142857143
+2020-12-28,Eaton,Deaths_7-Day,1.8571428571428572
 2020-03-10,Emmet,Deaths_7-Day,0.0
 2020-03-11,Emmet,Deaths_7-Day,0.0
 2020-03-12,Emmet,Deaths_7-Day,0.0
@@ -77475,6 +77757,7 @@ Date,County,Metrics,Values
 2020-12-22,Emmet,Deaths_7-Day,0.42857142857142855
 2020-12-23,Emmet,Deaths_7-Day,0.42857142857142855
 2020-12-26,Emmet,Deaths_7-Day,0.42857142857142855
+2020-12-28,Emmet,Deaths_7-Day,0.2857142857142857
 2020-03-10,FCI,Deaths_7-Day,0.0
 2020-03-11,FCI,Deaths_7-Day,0.0
 2020-03-12,FCI,Deaths_7-Day,0.0
@@ -77747,6 +78030,7 @@ Date,County,Metrics,Values
 2020-12-22,FCI,Deaths_7-Day,0.0
 2020-12-23,FCI,Deaths_7-Day,0.0
 2020-12-26,FCI,Deaths_7-Day,0.0
+2020-12-28,FCI,Deaths_7-Day,0.0
 2020-03-10,Genesee,Deaths_7-Day,0.0
 2020-03-11,Genesee,Deaths_7-Day,0.0
 2020-03-12,Genesee,Deaths_7-Day,0.0
@@ -78019,6 +78303,7 @@ Date,County,Metrics,Values
 2020-12-22,Genesee,Deaths_7-Day,6.428571428571429
 2020-12-23,Genesee,Deaths_7-Day,5.0
 2020-12-26,Genesee,Deaths_7-Day,5.571428571428571
+2020-12-28,Genesee,Deaths_7-Day,6.857142857142857
 2020-03-10,Gladwin,Deaths_7-Day,0.0
 2020-03-11,Gladwin,Deaths_7-Day,0.0
 2020-03-12,Gladwin,Deaths_7-Day,0.0
@@ -78291,6 +78576,7 @@ Date,County,Metrics,Values
 2020-12-22,Gladwin,Deaths_7-Day,1.2857142857142858
 2020-12-23,Gladwin,Deaths_7-Day,1.2857142857142858
 2020-12-26,Gladwin,Deaths_7-Day,1.0
+2020-12-28,Gladwin,Deaths_7-Day,1.0
 2020-03-10,Gogebic,Deaths_7-Day,0.0
 2020-03-11,Gogebic,Deaths_7-Day,0.0
 2020-03-12,Gogebic,Deaths_7-Day,0.0
@@ -78563,6 +78849,7 @@ Date,County,Metrics,Values
 2020-12-22,Gogebic,Deaths_7-Day,0.2857142857142857
 2020-12-23,Gogebic,Deaths_7-Day,0.42857142857142855
 2020-12-26,Gogebic,Deaths_7-Day,0.42857142857142855
+2020-12-28,Gogebic,Deaths_7-Day,0.42857142857142855
 2020-03-10,Grand Traverse,Deaths_7-Day,0.0
 2020-03-11,Grand Traverse,Deaths_7-Day,0.0
 2020-03-12,Grand Traverse,Deaths_7-Day,0.0
@@ -78835,6 +79122,7 @@ Date,County,Metrics,Values
 2020-12-22,Grand Traverse,Deaths_7-Day,0.8571428571428571
 2020-12-23,Grand Traverse,Deaths_7-Day,0.8571428571428571
 2020-12-26,Grand Traverse,Deaths_7-Day,0.8571428571428571
+2020-12-28,Grand Traverse,Deaths_7-Day,0.8571428571428571
 2020-03-10,Gratiot,Deaths_7-Day,0.0
 2020-03-11,Gratiot,Deaths_7-Day,0.0
 2020-03-12,Gratiot,Deaths_7-Day,0.0
@@ -79107,6 +79395,7 @@ Date,County,Metrics,Values
 2020-12-22,Gratiot,Deaths_7-Day,1.7142857142857142
 2020-12-23,Gratiot,Deaths_7-Day,1.4285714285714286
 2020-12-26,Gratiot,Deaths_7-Day,1.7142857142857142
+2020-12-28,Gratiot,Deaths_7-Day,1.5714285714285714
 2020-03-10,Hillsdale,Deaths_7-Day,0.0
 2020-03-11,Hillsdale,Deaths_7-Day,0.0
 2020-03-12,Hillsdale,Deaths_7-Day,0.0
@@ -79379,6 +79668,7 @@ Date,County,Metrics,Values
 2020-12-22,Hillsdale,Deaths_7-Day,0.2857142857142857
 2020-12-23,Hillsdale,Deaths_7-Day,0.2857142857142857
 2020-12-26,Hillsdale,Deaths_7-Day,0.8571428571428571
+2020-12-28,Hillsdale,Deaths_7-Day,0.8571428571428571
 2020-03-10,Houghton,Deaths_7-Day,0.0
 2020-03-11,Houghton,Deaths_7-Day,0.0
 2020-03-12,Houghton,Deaths_7-Day,0.0
@@ -79651,6 +79941,7 @@ Date,County,Metrics,Values
 2020-12-22,Houghton,Deaths_7-Day,1.2857142857142858
 2020-12-23,Houghton,Deaths_7-Day,1.0
 2020-12-26,Houghton,Deaths_7-Day,1.0
+2020-12-28,Houghton,Deaths_7-Day,1.0
 2020-03-10,Huron,Deaths_7-Day,0.0
 2020-03-11,Huron,Deaths_7-Day,0.0
 2020-03-12,Huron,Deaths_7-Day,0.0
@@ -79923,6 +80214,7 @@ Date,County,Metrics,Values
 2020-12-22,Huron,Deaths_7-Day,1.4285714285714286
 2020-12-23,Huron,Deaths_7-Day,1.2857142857142858
 2020-12-26,Huron,Deaths_7-Day,1.7142857142857142
+2020-12-28,Huron,Deaths_7-Day,1.0
 2020-03-10,Ingham,Deaths_7-Day,0.0
 2020-03-11,Ingham,Deaths_7-Day,0.0
 2020-03-12,Ingham,Deaths_7-Day,0.0
@@ -80195,6 +80487,7 @@ Date,County,Metrics,Values
 2020-12-22,Ingham,Deaths_7-Day,1.8571428571428572
 2020-12-23,Ingham,Deaths_7-Day,2.142857142857143
 2020-12-26,Ingham,Deaths_7-Day,2.857142857142857
+2020-12-28,Ingham,Deaths_7-Day,2.7142857142857144
 2020-03-10,Ionia,Deaths_7-Day,0.0
 2020-03-11,Ionia,Deaths_7-Day,0.0
 2020-03-12,Ionia,Deaths_7-Day,0.0
@@ -80467,6 +80760,7 @@ Date,County,Metrics,Values
 2020-12-22,Ionia,Deaths_7-Day,0.42857142857142855
 2020-12-23,Ionia,Deaths_7-Day,0.14285714285714285
 2020-12-26,Ionia,Deaths_7-Day,0.5714285714285714
+2020-12-28,Ionia,Deaths_7-Day,0.5714285714285714
 2020-03-10,Iosco,Deaths_7-Day,0.0
 2020-03-11,Iosco,Deaths_7-Day,0.0
 2020-03-12,Iosco,Deaths_7-Day,0.0
@@ -80739,6 +81033,7 @@ Date,County,Metrics,Values
 2020-12-22,Iosco,Deaths_7-Day,1.1428571428571428
 2020-12-23,Iosco,Deaths_7-Day,1.0
 2020-12-26,Iosco,Deaths_7-Day,0.8571428571428571
+2020-12-28,Iosco,Deaths_7-Day,0.5714285714285714
 2020-03-10,Iron,Deaths_7-Day,0.0
 2020-03-11,Iron,Deaths_7-Day,0.0
 2020-03-12,Iron,Deaths_7-Day,0.0
@@ -81011,6 +81306,7 @@ Date,County,Metrics,Values
 2020-12-22,Iron,Deaths_7-Day,0.0
 2020-12-23,Iron,Deaths_7-Day,0.0
 2020-12-26,Iron,Deaths_7-Day,0.0
+2020-12-28,Iron,Deaths_7-Day,0.0
 2020-03-10,Isabella,Deaths_7-Day,0.0
 2020-03-11,Isabella,Deaths_7-Day,0.0
 2020-03-12,Isabella,Deaths_7-Day,0.0
@@ -81283,6 +81579,7 @@ Date,County,Metrics,Values
 2020-12-22,Isabella,Deaths_7-Day,0.8571428571428571
 2020-12-23,Isabella,Deaths_7-Day,0.7142857142857143
 2020-12-26,Isabella,Deaths_7-Day,0.8571428571428571
+2020-12-28,Isabella,Deaths_7-Day,1.0
 2020-03-10,Jackson,Deaths_7-Day,0.0
 2020-03-11,Jackson,Deaths_7-Day,0.0
 2020-03-12,Jackson,Deaths_7-Day,0.0
@@ -81555,6 +81852,7 @@ Date,County,Metrics,Values
 2020-12-22,Jackson,Deaths_7-Day,2.7142857142857144
 2020-12-23,Jackson,Deaths_7-Day,2.142857142857143
 2020-12-26,Jackson,Deaths_7-Day,3.142857142857143
+2020-12-28,Jackson,Deaths_7-Day,2.4285714285714284
 2020-03-10,Kalamazoo,Deaths_7-Day,0.0
 2020-03-11,Kalamazoo,Deaths_7-Day,0.0
 2020-03-12,Kalamazoo,Deaths_7-Day,0.0
@@ -81827,6 +82125,7 @@ Date,County,Metrics,Values
 2020-12-22,Kalamazoo,Deaths_7-Day,2.0
 2020-12-23,Kalamazoo,Deaths_7-Day,1.4285714285714286
 2020-12-26,Kalamazoo,Deaths_7-Day,1.5714285714285714
+2020-12-28,Kalamazoo,Deaths_7-Day,1.7142857142857142
 2020-03-10,Kalkaska,Deaths_7-Day,0.0
 2020-03-11,Kalkaska,Deaths_7-Day,0.0
 2020-03-12,Kalkaska,Deaths_7-Day,0.0
@@ -82099,6 +82398,7 @@ Date,County,Metrics,Values
 2020-12-22,Kalkaska,Deaths_7-Day,0.2857142857142857
 2020-12-23,Kalkaska,Deaths_7-Day,0.2857142857142857
 2020-12-26,Kalkaska,Deaths_7-Day,0.2857142857142857
+2020-12-28,Kalkaska,Deaths_7-Day,0.42857142857142855
 2020-03-10,Kent,Deaths_7-Day,0.0
 2020-03-11,Kent,Deaths_7-Day,0.0
 2020-03-12,Kent,Deaths_7-Day,0.0
@@ -82371,6 +82671,7 @@ Date,County,Metrics,Values
 2020-12-22,Kent,Deaths_7-Day,6.0
 2020-12-23,Kent,Deaths_7-Day,4.142857142857143
 2020-12-26,Kent,Deaths_7-Day,6.142857142857143
+2020-12-28,Kent,Deaths_7-Day,5.0
 2020-03-10,Keweenaw,Deaths_7-Day,0.0
 2020-03-11,Keweenaw,Deaths_7-Day,0.0
 2020-03-12,Keweenaw,Deaths_7-Day,0.0
@@ -82587,6 +82888,7 @@ Date,County,Metrics,Values
 2020-12-22,Keweenaw,Deaths_7-Day,0.0
 2020-12-23,Keweenaw,Deaths_7-Day,0.0
 2020-12-26,Keweenaw,Deaths_7-Day,0.0
+2020-12-28,Keweenaw,Deaths_7-Day,0.0
 2020-03-10,Lake,Deaths_7-Day,0.0
 2020-03-11,Lake,Deaths_7-Day,0.0
 2020-03-12,Lake,Deaths_7-Day,0.0
@@ -82811,6 +83113,7 @@ Date,County,Metrics,Values
 2020-12-22,Lake,Deaths_7-Day,0.2857142857142857
 2020-12-23,Lake,Deaths_7-Day,0.2857142857142857
 2020-12-26,Lake,Deaths_7-Day,0.2857142857142857
+2020-12-28,Lake,Deaths_7-Day,0.2857142857142857
 2020-03-10,Lapeer,Deaths_7-Day,0.0
 2020-03-11,Lapeer,Deaths_7-Day,0.0
 2020-03-12,Lapeer,Deaths_7-Day,0.0
@@ -83083,6 +83386,7 @@ Date,County,Metrics,Values
 2020-12-22,Lapeer,Deaths_7-Day,2.0
 2020-12-23,Lapeer,Deaths_7-Day,1.7142857142857142
 2020-12-26,Lapeer,Deaths_7-Day,2.7142857142857144
+2020-12-28,Lapeer,Deaths_7-Day,2.0
 2020-03-10,Leelanau,Deaths_7-Day,0.0
 2020-03-11,Leelanau,Deaths_7-Day,0.0
 2020-03-12,Leelanau,Deaths_7-Day,0.0
@@ -83355,6 +83659,7 @@ Date,County,Metrics,Values
 2020-12-22,Leelanau,Deaths_7-Day,0.2857142857142857
 2020-12-23,Leelanau,Deaths_7-Day,0.2857142857142857
 2020-12-26,Leelanau,Deaths_7-Day,0.2857142857142857
+2020-12-28,Leelanau,Deaths_7-Day,0.2857142857142857
 2020-03-10,Lenawee,Deaths_7-Day,0.0
 2020-03-11,Lenawee,Deaths_7-Day,0.0
 2020-03-12,Lenawee,Deaths_7-Day,0.0
@@ -83627,6 +83932,7 @@ Date,County,Metrics,Values
 2020-12-22,Lenawee,Deaths_7-Day,2.0
 2020-12-23,Lenawee,Deaths_7-Day,1.5714285714285714
 2020-12-26,Lenawee,Deaths_7-Day,1.7142857142857142
+2020-12-28,Lenawee,Deaths_7-Day,0.8571428571428571
 2020-03-10,Livingston,Deaths_7-Day,0.0
 2020-03-11,Livingston,Deaths_7-Day,0.0
 2020-03-12,Livingston,Deaths_7-Day,0.0
@@ -83899,6 +84205,7 @@ Date,County,Metrics,Values
 2020-12-22,Livingston,Deaths_7-Day,1.1428571428571428
 2020-12-23,Livingston,Deaths_7-Day,1.5714285714285714
 2020-12-26,Livingston,Deaths_7-Day,1.5714285714285714
+2020-12-28,Livingston,Deaths_7-Day,1.1428571428571428
 2020-03-10,Luce,Deaths_7-Day,0.0
 2020-03-11,Luce,Deaths_7-Day,0.0
 2020-03-12,Luce,Deaths_7-Day,0.0
@@ -84346,6 +84653,7 @@ Date,County,Metrics,Values
 2020-12-22,MDOC,Deaths_7-Day,1.4285714285714286
 2020-12-23,MDOC,Deaths_7-Day,1.1428571428571428
 2020-12-26,MDOC,Deaths_7-Day,1.7142857142857142
+2020-12-28,MDOC,Deaths_7-Day,2.0
 2020-03-10,Mackinac,Deaths_7-Day,0.0
 2020-03-11,Mackinac,Deaths_7-Day,0.0
 2020-03-12,Mackinac,Deaths_7-Day,0.0
@@ -84542,6 +84850,7 @@ Date,County,Metrics,Values
 2020-12-22,Mackinac,Deaths_7-Day,0.14285714285714285
 2020-12-23,Mackinac,Deaths_7-Day,0.14285714285714285
 2020-12-26,Mackinac,Deaths_7-Day,0.14285714285714285
+2020-12-28,Mackinac,Deaths_7-Day,0.14285714285714285
 2020-03-10,Macomb,Deaths_7-Day,0.0
 2020-03-11,Macomb,Deaths_7-Day,0.0
 2020-03-12,Macomb,Deaths_7-Day,0.0
@@ -84814,6 +85123,7 @@ Date,County,Metrics,Values
 2020-12-22,Macomb,Deaths_7-Day,13.857142857142858
 2020-12-23,Macomb,Deaths_7-Day,12.0
 2020-12-26,Macomb,Deaths_7-Day,16.0
+2020-12-28,Macomb,Deaths_7-Day,13.142857142857142
 2020-03-10,Manistee,Deaths_7-Day,0.0
 2020-03-11,Manistee,Deaths_7-Day,0.0
 2020-03-12,Manistee,Deaths_7-Day,0.0
@@ -85086,6 +85396,7 @@ Date,County,Metrics,Values
 2020-12-22,Manistee,Deaths_7-Day,0.42857142857142855
 2020-12-23,Manistee,Deaths_7-Day,0.42857142857142855
 2020-12-26,Manistee,Deaths_7-Day,0.42857142857142855
+2020-12-28,Manistee,Deaths_7-Day,0.2857142857142857
 2020-03-10,Marquette,Deaths_7-Day,0.0
 2020-03-11,Marquette,Deaths_7-Day,0.0
 2020-03-12,Marquette,Deaths_7-Day,0.0
@@ -85358,6 +85669,7 @@ Date,County,Metrics,Values
 2020-12-22,Marquette,Deaths_7-Day,0.7142857142857143
 2020-12-23,Marquette,Deaths_7-Day,0.2857142857142857
 2020-12-26,Marquette,Deaths_7-Day,0.5714285714285714
+2020-12-28,Marquette,Deaths_7-Day,0.42857142857142855
 2020-03-10,Mason,Deaths_7-Day,0.0
 2020-03-11,Mason,Deaths_7-Day,0.0
 2020-03-12,Mason,Deaths_7-Day,0.0
@@ -85596,6 +85908,7 @@ Date,County,Metrics,Values
 2020-12-22,Mason,Deaths_7-Day,0.42857142857142855
 2020-12-23,Mason,Deaths_7-Day,0.42857142857142855
 2020-12-26,Mason,Deaths_7-Day,0.42857142857142855
+2020-12-28,Mason,Deaths_7-Day,0.5714285714285714
 2020-03-10,Mecosta,Deaths_7-Day,0.0
 2020-03-11,Mecosta,Deaths_7-Day,0.0
 2020-03-12,Mecosta,Deaths_7-Day,0.0
@@ -85868,6 +86181,7 @@ Date,County,Metrics,Values
 2020-12-22,Mecosta,Deaths_7-Day,0.14285714285714285
 2020-12-23,Mecosta,Deaths_7-Day,0.0
 2020-12-26,Mecosta,Deaths_7-Day,0.2857142857142857
+2020-12-28,Mecosta,Deaths_7-Day,0.2857142857142857
 2020-03-10,Menominee,Deaths_7-Day,0.0
 2020-03-11,Menominee,Deaths_7-Day,0.0
 2020-03-12,Menominee,Deaths_7-Day,0.0
@@ -86127,6 +86441,7 @@ Date,County,Metrics,Values
 2020-12-22,Menominee,Deaths_7-Day,0.42857142857142855
 2020-12-23,Menominee,Deaths_7-Day,0.42857142857142855
 2020-12-26,Menominee,Deaths_7-Day,0.2857142857142857
+2020-12-28,Menominee,Deaths_7-Day,0.42857142857142855
 2020-03-10,Midland,Deaths_7-Day,0.0
 2020-03-11,Midland,Deaths_7-Day,0.0
 2020-03-12,Midland,Deaths_7-Day,0.0
@@ -86399,6 +86714,7 @@ Date,County,Metrics,Values
 2020-12-22,Midland,Deaths_7-Day,1.1428571428571428
 2020-12-23,Midland,Deaths_7-Day,1.0
 2020-12-26,Midland,Deaths_7-Day,1.4285714285714286
+2020-12-28,Midland,Deaths_7-Day,1.2857142857142858
 2020-03-10,Missaukee,Deaths_7-Day,0.0
 2020-03-11,Missaukee,Deaths_7-Day,0.0
 2020-03-12,Missaukee,Deaths_7-Day,0.0
@@ -86671,6 +86987,7 @@ Date,County,Metrics,Values
 2020-12-22,Missaukee,Deaths_7-Day,0.14285714285714285
 2020-12-23,Missaukee,Deaths_7-Day,0.14285714285714285
 2020-12-26,Missaukee,Deaths_7-Day,0.14285714285714285
+2020-12-28,Missaukee,Deaths_7-Day,0.0
 2020-03-10,Monroe,Deaths_7-Day,0.0
 2020-03-11,Monroe,Deaths_7-Day,0.0
 2020-03-12,Monroe,Deaths_7-Day,0.0
@@ -86943,6 +87260,7 @@ Date,County,Metrics,Values
 2020-12-22,Monroe,Deaths_7-Day,2.0
 2020-12-23,Monroe,Deaths_7-Day,2.0
 2020-12-26,Monroe,Deaths_7-Day,2.2857142857142856
+2020-12-28,Monroe,Deaths_7-Day,2.2857142857142856
 2020-03-10,Montcalm,Deaths_7-Day,0.0
 2020-03-11,Montcalm,Deaths_7-Day,0.0
 2020-03-12,Montcalm,Deaths_7-Day,0.0
@@ -87215,6 +87533,7 @@ Date,County,Metrics,Values
 2020-12-22,Montcalm,Deaths_7-Day,2.142857142857143
 2020-12-23,Montcalm,Deaths_7-Day,1.4285714285714286
 2020-12-26,Montcalm,Deaths_7-Day,1.5714285714285714
+2020-12-28,Montcalm,Deaths_7-Day,1.2857142857142858
 2020-03-10,Montmorency,Deaths_7-Day,0.0
 2020-03-11,Montmorency,Deaths_7-Day,0.0
 2020-03-12,Montmorency,Deaths_7-Day,0.0
@@ -87422,6 +87741,7 @@ Date,County,Metrics,Values
 2020-12-22,Montmorency,Deaths_7-Day,0.42857142857142855
 2020-12-23,Montmorency,Deaths_7-Day,0.2857142857142857
 2020-12-26,Montmorency,Deaths_7-Day,0.2857142857142857
+2020-12-28,Montmorency,Deaths_7-Day,0.42857142857142855
 2020-03-10,Muskegon,Deaths_7-Day,0.0
 2020-03-11,Muskegon,Deaths_7-Day,0.0
 2020-03-12,Muskegon,Deaths_7-Day,0.0
@@ -87694,6 +88014,7 @@ Date,County,Metrics,Values
 2020-12-22,Muskegon,Deaths_7-Day,3.142857142857143
 2020-12-23,Muskegon,Deaths_7-Day,3.4285714285714284
 2020-12-26,Muskegon,Deaths_7-Day,3.2857142857142856
+2020-12-28,Muskegon,Deaths_7-Day,3.142857142857143
 2020-03-10,Newaygo,Deaths_7-Day,0.0
 2020-03-11,Newaygo,Deaths_7-Day,0.0
 2020-03-12,Newaygo,Deaths_7-Day,0.0
@@ -87966,6 +88287,7 @@ Date,County,Metrics,Values
 2020-12-22,Newaygo,Deaths_7-Day,0.2857142857142857
 2020-12-23,Newaygo,Deaths_7-Day,0.2857142857142857
 2020-12-26,Newaygo,Deaths_7-Day,0.5714285714285714
+2020-12-28,Newaygo,Deaths_7-Day,0.42857142857142855
 2020-03-10,Not Reported,Deaths_7-Day,0.0
 2020-03-11,Not Reported,Deaths_7-Day,0.0
 2020-03-12,Not Reported,Deaths_7-Day,0.0
@@ -88413,6 +88735,7 @@ Date,County,Metrics,Values
 2020-12-22,Oakland,Deaths_7-Day,11.428571428571429
 2020-12-23,Oakland,Deaths_7-Day,10.857142857142858
 2020-12-26,Oakland,Deaths_7-Day,14.714285714285714
+2020-12-28,Oakland,Deaths_7-Day,12.714285714285714
 2020-03-10,Oceana,Deaths_7-Day,0.0
 2020-03-11,Oceana,Deaths_7-Day,0.0
 2020-03-12,Oceana,Deaths_7-Day,0.0
@@ -88685,6 +89008,7 @@ Date,County,Metrics,Values
 2020-12-22,Oceana,Deaths_7-Day,1.0
 2020-12-23,Oceana,Deaths_7-Day,0.8571428571428571
 2020-12-26,Oceana,Deaths_7-Day,1.0
+2020-12-28,Oceana,Deaths_7-Day,1.2857142857142858
 2020-03-10,Ogemaw,Deaths_7-Day,0.0
 2020-03-11,Ogemaw,Deaths_7-Day,0.0
 2020-03-12,Ogemaw,Deaths_7-Day,0.0
@@ -88957,6 +89281,7 @@ Date,County,Metrics,Values
 2020-12-22,Ogemaw,Deaths_7-Day,0.5714285714285714
 2020-12-23,Ogemaw,Deaths_7-Day,0.5714285714285714
 2020-12-26,Ogemaw,Deaths_7-Day,1.0
+2020-12-28,Ogemaw,Deaths_7-Day,0.7142857142857143
 2020-03-10,Ontonagon,Deaths_7-Day,0.0
 2020-03-11,Ontonagon,Deaths_7-Day,0.0
 2020-03-12,Ontonagon,Deaths_7-Day,0.0
@@ -89177,6 +89502,7 @@ Date,County,Metrics,Values
 2020-12-22,Ontonagon,Deaths_7-Day,0.0
 2020-12-23,Ontonagon,Deaths_7-Day,0.0
 2020-12-26,Ontonagon,Deaths_7-Day,0.14285714285714285
+2020-12-28,Ontonagon,Deaths_7-Day,0.14285714285714285
 2020-03-10,Osceola,Deaths_7-Day,0.0
 2020-03-11,Osceola,Deaths_7-Day,0.0
 2020-03-12,Osceola,Deaths_7-Day,0.0
@@ -89401,6 +89727,7 @@ Date,County,Metrics,Values
 2020-12-22,Osceola,Deaths_7-Day,0.2857142857142857
 2020-12-23,Osceola,Deaths_7-Day,0.2857142857142857
 2020-12-26,Osceola,Deaths_7-Day,0.42857142857142855
+2020-12-28,Osceola,Deaths_7-Day,0.42857142857142855
 2020-03-10,Oscoda,Deaths_7-Day,0.0
 2020-03-11,Oscoda,Deaths_7-Day,0.0
 2020-03-12,Oscoda,Deaths_7-Day,0.0
@@ -89673,6 +90000,7 @@ Date,County,Metrics,Values
 2020-12-22,Oscoda,Deaths_7-Day,0.42857142857142855
 2020-12-23,Oscoda,Deaths_7-Day,0.0
 2020-12-26,Oscoda,Deaths_7-Day,0.0
+2020-12-28,Oscoda,Deaths_7-Day,-0.14285714285714285
 2020-03-10,Other,Deaths_7-Day,0.0
 2020-03-11,Other,Deaths_7-Day,0.0
 2020-03-12,Other,Deaths_7-Day,0.0
@@ -90120,6 +90448,7 @@ Date,County,Metrics,Values
 2020-12-22,Otsego,Deaths_7-Day,0.0
 2020-12-23,Otsego,Deaths_7-Day,0.0
 2020-12-26,Otsego,Deaths_7-Day,0.0
+2020-12-28,Otsego,Deaths_7-Day,0.0
 2020-03-10,Ottawa,Deaths_7-Day,0.0
 2020-03-11,Ottawa,Deaths_7-Day,0.0
 2020-03-12,Ottawa,Deaths_7-Day,0.0
@@ -90392,6 +90721,7 @@ Date,County,Metrics,Values
 2020-12-22,Ottawa,Deaths_7-Day,4.0
 2020-12-23,Ottawa,Deaths_7-Day,4.285714285714286
 2020-12-26,Ottawa,Deaths_7-Day,4.857142857142857
+2020-12-28,Ottawa,Deaths_7-Day,4.428571428571429
 2020-03-10,Out of State,Deaths_7-Day,0.0
 2020-03-11,Out of State,Deaths_7-Day,0.0
 2020-03-12,Out of State,Deaths_7-Day,0.0
@@ -90657,6 +90987,7 @@ Date,County,Metrics,Values
 2020-12-22,Out of State,Deaths_7-Day,0.14285714285714285
 2020-12-23,Out of State,Deaths_7-Day,0.2857142857142857
 2020-12-26,Out of State,Deaths_7-Day,0.2857142857142857
+2020-12-28,Out of State,Deaths_7-Day,0.2857142857142857
 2020-03-10,Out-of-State,Deaths_7-Day,0.0
 2020-03-11,Out-of-State,Deaths_7-Day,0.0
 2020-03-12,Out-of-State,Deaths_7-Day,0.0
@@ -91104,6 +91435,7 @@ Date,County,Metrics,Values
 2020-12-22,Presque Isle,Deaths_7-Day,0.14285714285714285
 2020-12-23,Presque Isle,Deaths_7-Day,0.0
 2020-12-26,Presque Isle,Deaths_7-Day,0.0
+2020-12-28,Presque Isle,Deaths_7-Day,0.2857142857142857
 2020-03-10,Roscommon,Deaths_7-Day,0.0
 2020-03-11,Roscommon,Deaths_7-Day,0.0
 2020-03-12,Roscommon,Deaths_7-Day,0.0
@@ -91376,6 +91708,7 @@ Date,County,Metrics,Values
 2020-12-22,Roscommon,Deaths_7-Day,0.2857142857142857
 2020-12-23,Roscommon,Deaths_7-Day,0.2857142857142857
 2020-12-26,Roscommon,Deaths_7-Day,0.14285714285714285
+2020-12-28,Roscommon,Deaths_7-Day,0.14285714285714285
 2020-03-10,Saginaw,Deaths_7-Day,0.0
 2020-03-11,Saginaw,Deaths_7-Day,0.0
 2020-03-12,Saginaw,Deaths_7-Day,0.0
@@ -91648,6 +91981,7 @@ Date,County,Metrics,Values
 2020-12-22,Saginaw,Deaths_7-Day,7.0
 2020-12-23,Saginaw,Deaths_7-Day,6.428571428571429
 2020-12-26,Saginaw,Deaths_7-Day,6.0
+2020-12-28,Saginaw,Deaths_7-Day,5.0
 2020-03-10,Sanilac,Deaths_7-Day,0.0
 2020-03-11,Sanilac,Deaths_7-Day,0.0
 2020-03-12,Sanilac,Deaths_7-Day,0.0
@@ -91920,6 +92254,7 @@ Date,County,Metrics,Values
 2020-12-22,Sanilac,Deaths_7-Day,1.7142857142857142
 2020-12-23,Sanilac,Deaths_7-Day,1.2857142857142858
 2020-12-26,Sanilac,Deaths_7-Day,1.5714285714285714
+2020-12-28,Sanilac,Deaths_7-Day,0.8571428571428571
 2020-03-10,Schoolcraft,Deaths_7-Day,0.0
 2020-03-11,Schoolcraft,Deaths_7-Day,0.0
 2020-03-12,Schoolcraft,Deaths_7-Day,0.0
@@ -92128,6 +92463,7 @@ Date,County,Metrics,Values
 2020-12-22,Schoolcraft,Deaths_7-Day,0.14285714285714285
 2020-12-23,Schoolcraft,Deaths_7-Day,0.14285714285714285
 2020-12-26,Schoolcraft,Deaths_7-Day,0.14285714285714285
+2020-12-28,Schoolcraft,Deaths_7-Day,0.0
 2020-03-10,Shiawassee,Deaths_7-Day,0.0
 2020-03-11,Shiawassee,Deaths_7-Day,0.0
 2020-03-12,Shiawassee,Deaths_7-Day,0.0
@@ -92400,6 +92736,7 @@ Date,County,Metrics,Values
 2020-12-22,Shiawassee,Deaths_7-Day,0.7142857142857143
 2020-12-23,Shiawassee,Deaths_7-Day,0.7142857142857143
 2020-12-26,Shiawassee,Deaths_7-Day,0.7142857142857143
+2020-12-28,Shiawassee,Deaths_7-Day,0.14285714285714285
 2020-03-10,St. Clair,Deaths_7-Day,0.0
 2020-03-11,St. Clair,Deaths_7-Day,0.0
 2020-03-12,St. Clair,Deaths_7-Day,0.0
@@ -92672,6 +93009,7 @@ Date,County,Metrics,Values
 2020-12-22,St. Clair,Deaths_7-Day,3.2857142857142856
 2020-12-23,St. Clair,Deaths_7-Day,3.0
 2020-12-26,St. Clair,Deaths_7-Day,3.4285714285714284
+2020-12-28,St. Clair,Deaths_7-Day,2.857142857142857
 2020-03-10,St. Joseph,Deaths_7-Day,0.0
 2020-03-11,St. Joseph,Deaths_7-Day,0.0
 2020-03-12,St. Joseph,Deaths_7-Day,0.0
@@ -92944,6 +93282,7 @@ Date,County,Metrics,Values
 2020-12-22,St. Joseph,Deaths_7-Day,0.2857142857142857
 2020-12-23,St. Joseph,Deaths_7-Day,0.2857142857142857
 2020-12-26,St. Joseph,Deaths_7-Day,0.42857142857142855
+2020-12-28,St. Joseph,Deaths_7-Day,0.42857142857142855
 2020-03-10,Tuscola,Deaths_7-Day,0.0
 2020-03-11,Tuscola,Deaths_7-Day,0.0
 2020-03-12,Tuscola,Deaths_7-Day,0.0
@@ -93216,6 +93555,7 @@ Date,County,Metrics,Values
 2020-12-22,Tuscola,Deaths_7-Day,1.0
 2020-12-23,Tuscola,Deaths_7-Day,1.0
 2020-12-26,Tuscola,Deaths_7-Day,0.8571428571428571
+2020-12-28,Tuscola,Deaths_7-Day,0.8571428571428571
 2020-03-10,Unknown,Deaths_7-Day,0.0
 2020-03-11,Unknown,Deaths_7-Day,0.0
 2020-03-12,Unknown,Deaths_7-Day,0.0
@@ -93663,6 +94003,7 @@ Date,County,Metrics,Values
 2020-12-22,Van Buren,Deaths_7-Day,1.0
 2020-12-23,Van Buren,Deaths_7-Day,0.5714285714285714
 2020-12-26,Van Buren,Deaths_7-Day,1.0
+2020-12-28,Van Buren,Deaths_7-Day,0.7142857142857143
 2020-03-10,Washtenaw,Deaths_7-Day,0.0
 2020-03-11,Washtenaw,Deaths_7-Day,0.0
 2020-03-12,Washtenaw,Deaths_7-Day,0.0
@@ -93935,6 +94276,7 @@ Date,County,Metrics,Values
 2020-12-22,Washtenaw,Deaths_7-Day,3.142857142857143
 2020-12-23,Washtenaw,Deaths_7-Day,2.857142857142857
 2020-12-26,Washtenaw,Deaths_7-Day,3.2857142857142856
+2020-12-28,Washtenaw,Deaths_7-Day,3.0
 2020-03-10,Wayne,Deaths_7-Day,0.0
 2020-03-11,Wayne,Deaths_7-Day,0.0
 2020-03-12,Wayne,Deaths_7-Day,0.0
@@ -94207,6 +94549,7 @@ Date,County,Metrics,Values
 2020-12-22,Wayne,Deaths_7-Day,10.714285714285714
 2020-12-23,Wayne,Deaths_7-Day,9.714285714285714
 2020-12-26,Wayne,Deaths_7-Day,11.428571428571429
+2020-12-28,Wayne,Deaths_7-Day,8.714285714285714
 2020-03-10,Wexford,Deaths_7-Day,0.0
 2020-03-11,Wexford,Deaths_7-Day,0.0
 2020-03-12,Wexford,Deaths_7-Day,0.0
@@ -94479,3 +94822,4 @@ Date,County,Metrics,Values
 2020-12-22,Wexford,Deaths_7-Day,0.14285714285714285
 2020-12-23,Wexford,Deaths_7-Day,0.14285714285714285
 2020-12-26,Wexford,Deaths_7-Day,0.14285714285714285
+2020-12-28,Wexford,Deaths_7-Day,0.2857142857142857
